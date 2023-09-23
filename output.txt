@@ -1,0 +1,5512 @@
+
+===================================
+
+TEXTO 1
+====================================
+PALAVRA: sistema
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+relação -> 90
+realidade -> 91
+princípio -> 91
+virtual -> 93
+assim -> 94
+maneira -> 95
+pode -> 95
+quanto -> 95
+imanente -> 104
+sentido -> 110
+sobre -> 114
+segundo -> 114
+pensamento -> 115
+priori -> 125
+modo -> 129
+mundo -> 134
+condição -> 134
+sujeito -> 145
+teoria -> 176
+==============POS=========================
+princípio -> 91
+realidade -> 91
+relação -> 90
+quanto -> 95
+pode -> 95
+segundo -> 114
+sobre -> 114
+pensamento -> 115
+sentido -> 110
+modo -> 129
+teoria -> 176
+sujeito -> 145
+condição -> 134
+mundo -> 134
+priori -> 125
+imanente -> 104
+maneira -> 95
+assim -> 94
+virtual -> 93
+===============PRE========================
+virtual -> 93
+relação -> 90
+realidade -> 91
+princípio -> 91
+assim -> 94
+maneira -> 95
+imanente -> 104
+pode -> 95
+quanto -> 95
+priori -> 125
+sentido -> 110
+pensamento -> 115
+sobre -> 114
+segundo -> 114
+mundo -> 134
+modo -> 129
+condição -> 134
+sujeito -> 145
+teoria -> 176
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+relação -> 90
+realidade -> 91
+virtual -> 93
+assim -> 94
+maneira -> 95
+imanente -> 104
+sentido -> 110
+sobre -> 114
+pensamento -> 115
+priori -> 125
+modo -> 129
+mundo -> 134
+sujeito -> 145
+teoria -> 176
+==============POS=========================
+realidade -> 91
+relação -> 90
+assim -> 94
+imanente -> 104
+maneira -> 95
+virtual -> 93
+sobre -> 114
+priori -> 125
+pensamento -> 115
+mundo -> 134
+teoria -> 176
+sujeito -> 145
+modo -> 129
+sentido -> 110
+===============PRE========================
+sentido -> 110
+virtual -> 93
+relação -> 90
+realidade -> 91
+maneira -> 95
+assim -> 94
+imanente -> 104
+modo -> 129
+pensamento -> 115
+sobre -> 114
+priori -> 125
+sujeito -> 145
+mundo -> 134
+teoria -> 176
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+quanto -> 95 : 0000
+pode -> 95 : 0001
+imanente -> 104 : 0010
+sentido -> 110 : 0011
+segundo -> 114 : 0100
+sobre -> 114 : 0101
+pensamento -> 115 : 0110
+priori -> 125 : 0111
+modo -> 129 : 1000
+condição -> 134 : 1001
+mundo -> 134 : 1010
+sujeito -> 145 : 1011
+teoria -> 176 : 1100
+relação -> 90 : 11010
+princípio -> 91 : 11011
+realidade -> 91 : 11100
+virtual -> 93 : 11101
+assim -> 94 : 11110
+maneira -> 95 : 11111
+==============POS=========================
+quanto -> 95 : 0000
+pode -> 95 : 0001
+imanente -> 104 : 0010
+sentido -> 110 : 0011
+segundo -> 114 : 0100
+sobre -> 114 : 0101
+pensamento -> 115 : 0110
+priori -> 125 : 0111
+modo -> 129 : 1000
+condição -> 134 : 1001
+mundo -> 134 : 1010
+sujeito -> 145 : 1011
+teoria -> 176 : 1100
+relação -> 90 : 11010
+princípio -> 91 : 11011
+realidade -> 91 : 11100
+virtual -> 93 : 11101
+assim -> 94 : 11110
+maneira -> 95 : 11111
+===============PRE========================
+quanto -> 95 : 0000
+pode -> 95 : 0001
+imanente -> 104 : 0010
+sentido -> 110 : 0011
+segundo -> 114 : 0100
+sobre -> 114 : 0101
+pensamento -> 115 : 0110
+priori -> 125 : 0111
+modo -> 129 : 1000
+condição -> 134 : 1001
+mundo -> 134 : 1010
+sujeito -> 145 : 1011
+teoria -> 176 : 1100
+relação -> 90 : 11010
+princípio -> 91 : 11011
+realidade -> 91 : 11100
+virtual -> 93 : 11101
+assim -> 94 : 11110
+maneira -> 95 : 11111
+=========================================
+====================================
+PALAVRA: sobre
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+retrocedente -> 19
+respeito -> 89
+relação -> 90
+realidade -> 91
+virtual -> 93
+assim -> 94
+quanto -> 95
+maneira -> 95
+pode -> 95
+vista -> 96
+É -> 96
+imanente -> 104
+sentido -> 110
+segundo -> 114
+pensamento -> 115
+priori -> 125
+modo -> 129
+mundo -> 134
+sujeito -> 145
+teoria -> 176
+==============POS=========================
+virtual -> 93
+realidade -> 91
+relação -> 90
+pode -> 95
+maneira -> 95
+quanto -> 95
+sentido -> 110
+imanente -> 104
+pensamento -> 115
+modo -> 129
+priori -> 125
+teoria -> 176
+sujeito -> 145
+mundo -> 134
+segundo -> 114
+É -> 96
+vista -> 96
+assim -> 94
+respeito -> 89
+retrocedente -> 19
+===============PRE========================
+retrocedente -> 19
+respeito -> 89
+assim -> 94
+relação -> 90
+realidade -> 91
+virtual -> 93
+vista -> 96
+quanto -> 95
+maneira -> 95
+pode -> 95
+É -> 96
+segundo -> 114
+imanente -> 104
+sentido -> 110
+mundo -> 134
+priori -> 125
+pensamento -> 115
+modo -> 129
+sujeito -> 145
+teoria -> 176
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+retrocedente -> 19
+respeito -> 89
+relação -> 90
+realidade -> 91
+virtual -> 93
+assim -> 94
+quanto -> 95
+vista -> 96
+imanente -> 104
+sentido -> 110
+segundo -> 114
+pensamento -> 115
+priori -> 125
+modo -> 129
+mundo -> 134
+sujeito -> 145
+teoria -> 176
+==============POS=========================
+retrocedente -> 19
+relação -> 90
+virtual -> 93
+realidade -> 91
+respeito -> 89
+quanto -> 95
+imanente -> 104
+vista -> 96
+pensamento -> 115
+segundo -> 114
+sentido -> 110
+modo -> 129
+teoria -> 176
+sujeito -> 145
+mundo -> 134
+priori -> 125
+assim -> 94
+===============PRE========================
+assim -> 94
+respeito -> 89
+retrocedente -> 19
+realidade -> 91
+relação -> 90
+virtual -> 93
+priori -> 125
+sentido -> 110
+vista -> 96
+quanto -> 95
+imanente -> 104
+segundo -> 114
+pensamento -> 115
+mundo -> 134
+modo -> 129
+sujeito -> 145
+teoria -> 176
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+maneira -> 95 : 0000
+É -> 96 : 0001
+vista -> 96 : 0010
+imanente -> 104 : 0011
+retrocedente -> 19 : 01000
+respeito -> 89 : 01001
+sentido -> 110 : 0101
+segundo -> 114 : 0110
+pensamento -> 115 : 0111
+priori -> 125 : 1000
+modo -> 129 : 1001
+mundo -> 134 : 1010
+sujeito -> 145 : 1011
+teoria -> 176 : 1100
+relação -> 90 : 11010
+realidade -> 91 : 11011
+virtual -> 93 : 11100
+assim -> 94 : 11101
+pode -> 95 : 11110
+quanto -> 95 : 11111
+==============POS=========================
+maneira -> 95 : 0000
+É -> 96 : 0001
+vista -> 96 : 0010
+imanente -> 104 : 0011
+retrocedente -> 19 : 01000
+respeito -> 89 : 01001
+sentido -> 110 : 0101
+segundo -> 114 : 0110
+pensamento -> 115 : 0111
+priori -> 125 : 1000
+modo -> 129 : 1001
+mundo -> 134 : 1010
+sujeito -> 145 : 1011
+teoria -> 176 : 1100
+relação -> 90 : 11010
+realidade -> 91 : 11011
+virtual -> 93 : 11100
+assim -> 94 : 11101
+pode -> 95 : 11110
+quanto -> 95 : 11111
+===============PRE========================
+maneira -> 95 : 0000
+É -> 96 : 0001
+vista -> 96 : 0010
+imanente -> 104 : 0011
+retrocedente -> 19 : 01000
+respeito -> 89 : 01001
+sentido -> 110 : 0101
+segundo -> 114 : 0110
+pensamento -> 115 : 0111
+priori -> 125 : 1000
+modo -> 129 : 1001
+mundo -> 134 : 1010
+sujeito -> 145 : 1011
+teoria -> 176 : 1100
+relação -> 90 : 11010
+realidade -> 91 : 11011
+virtual -> 93 : 11100
+assim -> 94 : 11101
+pode -> 95 : 11110
+quanto -> 95 : 11111
+=========================================
+====================================
+PALAVRA: mundo
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+determinação -> 85
+relação -> 90
+realidade -> 91
+virtual -> 93
+assim -> 94
+wittgenstein -> 95
+maneira -> 95
+pode -> 95
+quanto -> 95
+vista -> 96
+imanente -> 104
+sentido -> 110
+segundo -> 114
+pensamento -> 115
+priori -> 125
+modo -> 129
+condição -> 134
+sujeito -> 145
+teoria -> 176
+==============POS=========================
+relação -> 90
+realidade -> 91
+determinação -> 85
+assim -> 94
+quanto -> 95
+pode -> 95
+vista -> 96
+sentido -> 110
+priori -> 125
+pensamento -> 115
+modo -> 129
+segundo -> 114
+condição -> 134
+imanente -> 104
+teoria -> 176
+sujeito -> 145
+maneira -> 95
+wittgenstein -> 95
+virtual -> 93
+===============PRE========================
+virtual -> 93
+determinação -> 85
+realidade -> 91
+relação -> 90
+wittgenstein -> 95
+assim -> 94
+maneira -> 95
+sujeito -> 145
+imanente -> 104
+vista -> 96
+pode -> 95
+quanto -> 95
+condição -> 134
+segundo -> 114
+sentido -> 110
+modo -> 129
+pensamento -> 115
+priori -> 125
+teoria -> 176
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+determinação -> 85
+relação -> 90
+realidade -> 91
+virtual -> 93
+assim -> 94
+wittgenstein -> 95
+vista -> 96
+imanente -> 104
+sentido -> 110
+segundo -> 114
+pensamento -> 115
+priori -> 125
+modo -> 129
+condição -> 134
+sujeito -> 145
+teoria -> 176
+==============POS=========================
+determinação -> 85
+realidade -> 91
+relação -> 90
+assim -> 94
+vista -> 96
+wittgenstein -> 95
+virtual -> 93
+sentido -> 110
+segundo -> 114
+priori -> 125
+pensamento -> 115
+condição -> 134
+teoria -> 176
+sujeito -> 145
+modo -> 129
+imanente -> 104
+===============PRE========================
+imanente -> 104
+virtual -> 93
+relação -> 90
+determinação -> 85
+realidade -> 91
+wittgenstein -> 95
+assim -> 94
+vista -> 96
+modo -> 129
+pensamento -> 115
+segundo -> 114
+sentido -> 110
+priori -> 125
+sujeito -> 145
+condição -> 134
+teoria -> 176
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+wittgenstein -> 95 : 0000
+pode -> 95 : 0001
+quanto -> 95 : 0010
+vista -> 96 : 0011
+imanente -> 104 : 0100
+sentido -> 110 : 0101
+segundo -> 114 : 0110
+pensamento -> 115 : 0111
+priori -> 125 : 1000
+modo -> 129 : 1001
+condição -> 134 : 1010
+sujeito -> 145 : 1011
+determinação -> 85 : 11000
+relação -> 90 : 11001
+teoria -> 176 : 1101
+realidade -> 91 : 11100
+virtual -> 93 : 11101
+assim -> 94 : 11110
+maneira -> 95 : 11111
+==============POS=========================
+wittgenstein -> 95 : 0000
+pode -> 95 : 0001
+quanto -> 95 : 0010
+vista -> 96 : 0011
+imanente -> 104 : 0100
+sentido -> 110 : 0101
+segundo -> 114 : 0110
+pensamento -> 115 : 0111
+priori -> 125 : 1000
+modo -> 129 : 1001
+condição -> 134 : 1010
+sujeito -> 145 : 1011
+determinação -> 85 : 11000
+relação -> 90 : 11001
+teoria -> 176 : 1101
+realidade -> 91 : 11100
+virtual -> 93 : 11101
+assim -> 94 : 11110
+maneira -> 95 : 11111
+===============PRE========================
+wittgenstein -> 95 : 0000
+pode -> 95 : 0001
+quanto -> 95 : 0010
+vista -> 96 : 0011
+imanente -> 104 : 0100
+sentido -> 110 : 0101
+segundo -> 114 : 0110
+pensamento -> 115 : 0111
+priori -> 125 : 1000
+modo -> 129 : 1001
+condição -> 134 : 1010
+sujeito -> 145 : 1011
+determinação -> 85 : 11000
+relação -> 90 : 11001
+teoria -> 176 : 1101
+realidade -> 91 : 11100
+virtual -> 93 : 11101
+assim -> 94 : 11110
+maneira -> 95 : 11111
+=========================================
+====================================
+PALAVRA: teoria
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+retrocedente -> 19
+respeito -> 89
+relação -> 90
+realidade -> 91
+princípio -> 91
+virtual -> 93
+assim -> 94
+maneira -> 95
+pode -> 95
+quanto -> 95
+vista -> 96
+É -> 96
+imanente -> 104
+sentido -> 110
+segundo -> 114
+pensamento -> 115
+priori -> 125
+modo -> 129
+condição -> 134
+sujeito -> 145
+==============POS=========================
+respeito -> 89
+princípio -> 91
+realidade -> 91
+assim -> 94
+virtual -> 93
+quanto -> 95
+pode -> 95
+É -> 96
+vista -> 96
+segundo -> 114
+priori -> 125
+pensamento -> 115
+condição -> 134
+sujeito -> 145
+modo -> 129
+sentido -> 110
+imanente -> 104
+maneira -> 95
+relação -> 90
+retrocedente -> 19
+===============PRE========================
+retrocedente -> 19
+relação -> 90
+respeito -> 89
+maneira -> 95
+virtual -> 93
+realidade -> 91
+princípio -> 91
+assim -> 94
+imanente -> 104
+vista -> 96
+pode -> 95
+quanto -> 95
+É -> 96
+sentido -> 110
+modo -> 129
+pensamento -> 115
+segundo -> 114
+priori -> 125
+sujeito -> 145
+condição -> 134
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+retrocedente -> 19
+respeito -> 89
+relação -> 90
+realidade -> 91
+virtual -> 93
+assim -> 94
+maneira -> 95
+vista -> 96
+imanente -> 104
+sentido -> 110
+segundo -> 114
+pensamento -> 115
+priori -> 125
+modo -> 129
+condição -> 134
+sujeito -> 145
+==============POS=========================
+retrocedente -> 19
+respeito -> 89
+realidade -> 91
+relação -> 90
+assim -> 94
+maneira -> 95
+imanente -> 104
+vista -> 96
+segundo -> 114
+pensamento -> 115
+modo -> 129
+sujeito -> 145
+condição -> 134
+priori -> 125
+sentido -> 110
+virtual -> 93
+===============PRE========================
+virtual -> 93
+relação -> 90
+respeito -> 89
+retrocedente -> 19
+realidade -> 91
+sentido -> 110
+vista -> 96
+maneira -> 95
+assim -> 94
+imanente -> 104
+priori -> 125
+pensamento -> 115
+segundo -> 114
+condição -> 134
+modo -> 129
+sujeito -> 145
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+pode -> 95 : 0000
+quanto -> 95 : 0001
+vista -> 96 : 0010
+É -> 96 : 0011
+imanente -> 104 : 0100
+retrocedente -> 19 : 01010
+respeito -> 89 : 01011
+sentido -> 110 : 0110
+segundo -> 114 : 0111
+pensamento -> 115 : 1000
+priori -> 125 : 1001
+modo -> 129 : 1010
+condição -> 134 : 1011
+sujeito -> 145 : 1100
+relação -> 90 : 11010
+realidade -> 91 : 11011
+princípio -> 91 : 11100
+virtual -> 93 : 11101
+assim -> 94 : 11110
+maneira -> 95 : 11111
+==============POS=========================
+pode -> 95 : 0000
+quanto -> 95 : 0001
+vista -> 96 : 0010
+É -> 96 : 0011
+imanente -> 104 : 0100
+retrocedente -> 19 : 01010
+respeito -> 89 : 01011
+sentido -> 110 : 0110
+segundo -> 114 : 0111
+pensamento -> 115 : 1000
+priori -> 125 : 1001
+modo -> 129 : 1010
+condição -> 134 : 1011
+sujeito -> 145 : 1100
+relação -> 90 : 11010
+realidade -> 91 : 11011
+princípio -> 91 : 11100
+virtual -> 93 : 11101
+assim -> 94 : 11110
+maneira -> 95 : 11111
+===============PRE========================
+pode -> 95 : 0000
+quanto -> 95 : 0001
+vista -> 96 : 0010
+É -> 96 : 0011
+imanente -> 104 : 0100
+retrocedente -> 19 : 01010
+respeito -> 89 : 01011
+sentido -> 110 : 0110
+segundo -> 114 : 0111
+pensamento -> 115 : 1000
+priori -> 125 : 1001
+modo -> 129 : 1010
+condição -> 134 : 1011
+sujeito -> 145 : 1100
+relação -> 90 : 11010
+realidade -> 91 : 11011
+princípio -> 91 : 11100
+virtual -> 93 : 11101
+assim -> 94 : 11110
+maneira -> 95 : 11111
+=========================================
+====================================
+PALAVRA: tempo
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+determinação -> 85
+respeito -> 89
+princípio -> 91
+realidade -> 91
+virtual -> 93
+assim -> 94
+wittgenstein -> 95
+pode -> 95
+quanto -> 95
+maneira -> 95
+vista -> 96
+imanente -> 104
+sentido -> 110
+segundo -> 114
+pensamento -> 115
+priori -> 125
+modo -> 129
+condição -> 134
+sujeito -> 145
+==============POS=========================
+determinação -> 85
+virtual -> 93
+assim -> 94
+realidade -> 91
+maneira -> 95
+quanto -> 95
+vista -> 96
+pode -> 95
+wittgenstein -> 95
+pensamento -> 115
+modo -> 129
+sujeito -> 145
+condição -> 134
+priori -> 125
+segundo -> 114
+sentido -> 110
+imanente -> 104
+princípio -> 91
+respeito -> 89
+===============PRE========================
+respeito -> 89
+determinação -> 85
+princípio -> 91
+imanente -> 104
+wittgenstein -> 95
+realidade -> 91
+assim -> 94
+virtual -> 93
+pode -> 95
+vista -> 96
+quanto -> 95
+maneira -> 95
+sentido -> 110
+segundo -> 114
+priori -> 125
+pensamento -> 115
+condição -> 134
+modo -> 129
+sujeito -> 145
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+determinação -> 85
+respeito -> 89
+princípio -> 91
+virtual -> 93
+assim -> 94
+wittgenstein -> 95
+vista -> 96
+imanente -> 104
+sentido -> 110
+segundo -> 114
+pensamento -> 115
+priori -> 125
+modo -> 129
+condição -> 134
+sujeito -> 145
+==============POS=========================
+determinação -> 85
+princípio -> 91
+assim -> 94
+virtual -> 93
+respeito -> 89
+vista -> 96
+imanente -> 104
+pensamento -> 115
+segundo -> 114
+modo -> 129
+sujeito -> 145
+condição -> 134
+priori -> 125
+sentido -> 110
+wittgenstein -> 95
+===============PRE========================
+wittgenstein -> 95
+respeito -> 89
+determinação -> 85
+virtual -> 93
+princípio -> 91
+assim -> 94
+sentido -> 110
+imanente -> 104
+vista -> 96
+priori -> 125
+segundo -> 114
+pensamento -> 115
+condição -> 134
+modo -> 129
+sujeito -> 145
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+pode -> 95 : 0000
+maneira -> 95 : 0001
+wittgenstein -> 95 : 0010
+quanto -> 95 : 0011
+vista -> 96 : 0100
+imanente -> 104 : 0101
+sentido -> 110 : 0110
+segundo -> 114 : 0111
+pensamento -> 115 : 1000
+priori -> 125 : 1001
+modo -> 129 : 1010
+condição -> 134 : 1011
+sujeito -> 145 : 1100
+determinação -> 85 : 11010
+respeito -> 89 : 11011
+princípio -> 91 : 11100
+realidade -> 91 : 11101
+virtual -> 93 : 11110
+assim -> 94 : 11111
+==============POS=========================
+pode -> 95 : 0000
+maneira -> 95 : 0001
+wittgenstein -> 95 : 0010
+quanto -> 95 : 0011
+vista -> 96 : 0100
+imanente -> 104 : 0101
+sentido -> 110 : 0110
+segundo -> 114 : 0111
+pensamento -> 115 : 1000
+priori -> 125 : 1001
+modo -> 129 : 1010
+condição -> 134 : 1011
+sujeito -> 145 : 1100
+determinação -> 85 : 11010
+respeito -> 89 : 11011
+princípio -> 91 : 11100
+realidade -> 91 : 11101
+virtual -> 93 : 11110
+assim -> 94 : 11111
+===============PRE========================
+pode -> 95 : 0000
+maneira -> 95 : 0001
+wittgenstein -> 95 : 0010
+quanto -> 95 : 0011
+vista -> 96 : 0100
+imanente -> 104 : 0101
+sentido -> 110 : 0110
+segundo -> 114 : 0111
+pensamento -> 115 : 1000
+priori -> 125 : 1001
+modo -> 129 : 1010
+condição -> 134 : 1011
+sujeito -> 145 : 1100
+determinação -> 85 : 11010
+respeito -> 89 : 11011
+princípio -> 91 : 11100
+realidade -> 91 : 11101
+virtual -> 93 : 11110
+assim -> 94 : 11111
+=========================================
+
+===================================
+
+TEXTO 2
+====================================
+PALAVRA: sistema
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+realidade -> 81
+quanto -> 85
+assim -> 86
+undefinedda -> 88
+infinito -> 89
+respeito -> 90
+maneira -> 95
+vista -> 95
+pode -> 96
+sentido -> 111
+sobre -> 114
+segundo -> 114
+pensamento -> 115
+modo -> 129
+condição -> 133
+mundo -> 144
+priori -> 144
+sujeito -> 149
+teoria -> 192
+==============POS=========================
+infinito -> 89
+undefinedda -> 88
+assim -> 86
+quanto -> 85
+vista -> 95
+maneira -> 95
+sentido -> 111
+pode -> 96
+respeito -> 90
+realidade -> 81
+segundo -> 114
+modo -> 129
+pensamento -> 115
+priori -> 144
+mundo -> 144
+sujeito -> 149
+teoria -> 192
+condição -> 133
+sobre -> 114
+===============PRE========================
+sobre -> 114
+realidade -> 81
+respeito -> 90
+quanto -> 85
+assim -> 86
+undefinedda -> 88
+infinito -> 89
+pode -> 96
+maneira -> 95
+vista -> 95
+sentido -> 111
+condição -> 133
+pensamento -> 115
+segundo -> 114
+modo -> 129
+teoria -> 192
+sujeito -> 149
+mundo -> 144
+priori -> 144
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+realidade -> 81
+quanto -> 85
+assim -> 86
+undefinedda -> 88
+infinito -> 89
+respeito -> 90
+maneira -> 95
+pode -> 96
+sentido -> 111
+sobre -> 114
+pensamento -> 115
+modo -> 129
+condição -> 133
+mundo -> 144
+sujeito -> 149
+teoria -> 192
+==============POS=========================
+realidade -> 81
+assim -> 86
+infinito -> 89
+undefinedda -> 88
+quanto -> 85
+maneira -> 95
+sentido -> 111
+sobre -> 114
+pode -> 96
+modo -> 129
+mundo -> 144
+condição -> 133
+teoria -> 192
+sujeito -> 149
+pensamento -> 115
+respeito -> 90
+===============PRE========================
+respeito -> 90
+quanto -> 85
+realidade -> 81
+undefinedda -> 88
+assim -> 86
+infinito -> 89
+pensamento -> 115
+pode -> 96
+maneira -> 95
+sobre -> 114
+sentido -> 111
+sujeito -> 149
+condição -> 133
+modo -> 129
+mundo -> 144
+teoria -> 192
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+teoria -> 192 : 000
+pode -> 96 : 0010
+sentido -> 111 : 0011
+segundo -> 114 : 0100
+sobre -> 114 : 0101
+pensamento -> 115 : 0110
+modo -> 129 : 0111
+condição -> 133 : 1000
+priori -> 144 : 1001
+mundo -> 144 : 1010
+sujeito -> 149 : 1011
+realidade -> 81 : 11000
+quanto -> 85 : 11001
+assim -> 86 : 11010
+undefinedda -> 88 : 11011
+infinito -> 89 : 11100
+respeito -> 90 : 11101
+vista -> 95 : 11110
+maneira -> 95 : 11111
+==============POS=========================
+teoria -> 192 : 000
+pode -> 96 : 0010
+sentido -> 111 : 0011
+segundo -> 114 : 0100
+sobre -> 114 : 0101
+pensamento -> 115 : 0110
+modo -> 129 : 0111
+condição -> 133 : 1000
+priori -> 144 : 1001
+mundo -> 144 : 1010
+sujeito -> 149 : 1011
+realidade -> 81 : 11000
+quanto -> 85 : 11001
+assim -> 86 : 11010
+undefinedda -> 88 : 11011
+infinito -> 89 : 11100
+respeito -> 90 : 11101
+vista -> 95 : 11110
+maneira -> 95 : 11111
+===============PRE========================
+teoria -> 192 : 000
+pode -> 96 : 0010
+sentido -> 111 : 0011
+segundo -> 114 : 0100
+sobre -> 114 : 0101
+pensamento -> 115 : 0110
+modo -> 129 : 0111
+condição -> 133 : 1000
+priori -> 144 : 1001
+mundo -> 144 : 1010
+sujeito -> 149 : 1011
+realidade -> 81 : 11000
+quanto -> 85 : 11001
+assim -> 86 : 11010
+undefinedda -> 88 : 11011
+infinito -> 89 : 11100
+respeito -> 90 : 11101
+vista -> 95 : 11110
+maneira -> 95 : 11111
+=========================================
+====================================
+PALAVRA: sobre
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+deve-se -> 38
+determinação -> 80
+virtual -> 80
+quanto -> 85
+undefinedda -> 88
+relação -> 89
+infinito -> 89
+É -> 95
+maneira -> 95
+vista -> 95
+imanente -> 109
+sentido -> 111
+segundo -> 114
+pensamento -> 115
+modo -> 129
+condição -> 133
+priori -> 144
+mundo -> 144
+sujeito -> 149
+teoria -> 192
+==============POS=========================
+infinito -> 89
+relação -> 89
+vista -> 95
+maneira -> 95
+É -> 95
+undefinedda -> 88
+quanto -> 85
+virtual -> 80
+sentido -> 111
+pensamento -> 115
+segundo -> 114
+modo -> 129
+mundo -> 144
+priori -> 144
+sujeito -> 149
+teoria -> 192
+condição -> 133
+imanente -> 109
+determinação -> 80
+deve-se -> 38
+===============PRE========================
+deve-se -> 38
+determinação -> 80
+imanente -> 109
+virtual -> 80
+quanto -> 85
+undefinedda -> 88
+É -> 95
+relação -> 89
+infinito -> 89
+maneira -> 95
+vista -> 95
+condição -> 133
+modo -> 129
+segundo -> 114
+sentido -> 111
+pensamento -> 115
+teoria -> 192
+sujeito -> 149
+priori -> 144
+mundo -> 144
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+deve-se -> 38
+determinação -> 80
+quanto -> 85
+undefinedda -> 88
+relação -> 89
+É -> 95
+imanente -> 109
+sentido -> 111
+segundo -> 114
+pensamento -> 115
+modo -> 129
+condição -> 133
+priori -> 144
+sujeito -> 149
+teoria -> 192
+==============POS=========================
+deve-se -> 38
+quanto -> 85
+determinação -> 80
+relação -> 89
+É -> 95
+undefinedda -> 88
+sentido -> 111
+pensamento -> 115
+modo -> 129
+segundo -> 114
+priori -> 144
+teoria -> 192
+sujeito -> 149
+condição -> 133
+imanente -> 109
+===============PRE========================
+imanente -> 109
+undefinedda -> 88
+determinação -> 80
+deve-se -> 38
+quanto -> 85
+É -> 95
+relação -> 89
+condição -> 133
+segundo -> 114
+sentido -> 111
+modo -> 129
+pensamento -> 115
+sujeito -> 149
+priori -> 144
+teoria -> 192
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+teoria -> 192 : 000
+imanente -> 109 : 0010
+sentido -> 111 : 0011
+segundo -> 114 : 0100
+pensamento -> 115 : 0101
+deve-se -> 38 : 01100
+virtual -> 80 : 01101
+modo -> 129 : 0111
+condição -> 133 : 1000
+priori -> 144 : 1001
+mundo -> 144 : 1010
+sujeito -> 149 : 1011
+determinação -> 80 : 11000
+quanto -> 85 : 11001
+undefinedda -> 88 : 11010
+relação -> 89 : 11011
+infinito -> 89 : 11100
+maneira -> 95 : 11101
+vista -> 95 : 11110
+É -> 95 : 11111
+==============POS=========================
+teoria -> 192 : 000
+imanente -> 109 : 0010
+sentido -> 111 : 0011
+segundo -> 114 : 0100
+pensamento -> 115 : 0101
+deve-se -> 38 : 01100
+virtual -> 80 : 01101
+modo -> 129 : 0111
+condição -> 133 : 1000
+priori -> 144 : 1001
+mundo -> 144 : 1010
+sujeito -> 149 : 1011
+determinação -> 80 : 11000
+quanto -> 85 : 11001
+undefinedda -> 88 : 11010
+relação -> 89 : 11011
+infinito -> 89 : 11100
+maneira -> 95 : 11101
+vista -> 95 : 11110
+É -> 95 : 11111
+===============PRE========================
+teoria -> 192 : 000
+imanente -> 109 : 0010
+sentido -> 111 : 0011
+segundo -> 114 : 0100
+pensamento -> 115 : 0101
+deve-se -> 38 : 01100
+virtual -> 80 : 01101
+modo -> 129 : 0111
+condição -> 133 : 1000
+priori -> 144 : 1001
+mundo -> 144 : 1010
+sujeito -> 149 : 1011
+determinação -> 80 : 11000
+quanto -> 85 : 11001
+undefinedda -> 88 : 11010
+relação -> 89 : 11011
+infinito -> 89 : 11100
+maneira -> 95 : 11101
+vista -> 95 : 11110
+É -> 95 : 11111
+=========================================
+====================================
+PALAVRA: mundo
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+determinação -> 80
+realidade -> 81
+quanto -> 85
+assim -> 86
+undefinedda -> 88
+infinito -> 89
+wittgenstein -> 95
+vista -> 95
+maneira -> 95
+pode -> 96
+imanente -> 109
+sentido -> 111
+segundo -> 114
+pensamento -> 115
+modo -> 129
+condição -> 133
+priori -> 144
+sujeito -> 149
+teoria -> 192
+==============POS=========================
+realidade -> 81
+assim -> 86
+undefinedda -> 88
+quanto -> 85
+infinito -> 89
+determinação -> 80
+pode -> 96
+maneira -> 95
+vista -> 95
+sentido -> 111
+modo -> 129
+pensamento -> 115
+segundo -> 114
+imanente -> 109
+priori -> 144
+sujeito -> 149
+teoria -> 192
+condição -> 133
+wittgenstein -> 95
+===============PRE========================
+wittgenstein -> 95
+determinação -> 80
+infinito -> 89
+quanto -> 85
+realidade -> 81
+undefinedda -> 88
+assim -> 86
+condição -> 133
+imanente -> 109
+vista -> 95
+maneira -> 95
+pode -> 96
+segundo -> 114
+sentido -> 111
+pensamento -> 115
+modo -> 129
+teoria -> 192
+sujeito -> 149
+priori -> 144
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+determinação -> 80
+realidade -> 81
+quanto -> 85
+assim -> 86
+undefinedda -> 88
+infinito -> 89
+wittgenstein -> 95
+pode -> 96
+imanente -> 109
+sentido -> 111
+segundo -> 114
+pensamento -> 115
+modo -> 129
+condição -> 133
+priori -> 144
+sujeito -> 149
+teoria -> 192
+==============POS=========================
+determinação -> 80
+quanto -> 85
+undefinedda -> 88
+assim -> 86
+realidade -> 81
+pode -> 96
+wittgenstein -> 95
+sentido -> 111
+imanente -> 109
+modo -> 129
+pensamento -> 115
+priori -> 144
+teoria -> 192
+sujeito -> 149
+condição -> 133
+segundo -> 114
+infinito -> 89
+===============PRE========================
+infinito -> 89
+realidade -> 81
+determinação -> 80
+assim -> 86
+quanto -> 85
+undefinedda -> 88
+segundo -> 114
+imanente -> 109
+wittgenstein -> 95
+pode -> 96
+sentido -> 111
+condição -> 133
+pensamento -> 115
+modo -> 129
+sujeito -> 149
+priori -> 144
+teoria -> 192
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+maneira -> 95 : 0000
+pode -> 96 : 0001
+teoria -> 192 : 001
+imanente -> 109 : 0100
+sentido -> 111 : 0101
+segundo -> 114 : 0110
+pensamento -> 115 : 0111
+modo -> 129 : 1000
+condição -> 133 : 1001
+priori -> 144 : 1010
+sujeito -> 149 : 1011
+determinação -> 80 : 11000
+realidade -> 81 : 11001
+quanto -> 85 : 11010
+assim -> 86 : 11011
+undefinedda -> 88 : 11100
+infinito -> 89 : 11101
+wittgenstein -> 95 : 11110
+vista -> 95 : 11111
+==============POS=========================
+maneira -> 95 : 0000
+pode -> 96 : 0001
+teoria -> 192 : 001
+imanente -> 109 : 0100
+sentido -> 111 : 0101
+segundo -> 114 : 0110
+pensamento -> 115 : 0111
+modo -> 129 : 1000
+condição -> 133 : 1001
+priori -> 144 : 1010
+sujeito -> 149 : 1011
+determinação -> 80 : 11000
+realidade -> 81 : 11001
+quanto -> 85 : 11010
+assim -> 86 : 11011
+undefinedda -> 88 : 11100
+infinito -> 89 : 11101
+wittgenstein -> 95 : 11110
+vista -> 95 : 11111
+===============PRE========================
+maneira -> 95 : 0000
+pode -> 96 : 0001
+teoria -> 192 : 001
+imanente -> 109 : 0100
+sentido -> 111 : 0101
+segundo -> 114 : 0110
+pensamento -> 115 : 0111
+modo -> 129 : 1000
+condição -> 133 : 1001
+priori -> 144 : 1010
+sujeito -> 149 : 1011
+determinação -> 80 : 11000
+realidade -> 81 : 11001
+quanto -> 85 : 11010
+assim -> 86 : 11011
+undefinedda -> 88 : 11100
+infinito -> 89 : 11101
+wittgenstein -> 95 : 11110
+vista -> 95 : 11111
+=========================================
+====================================
+PALAVRA: teoria
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+deve-se -> 38
+quanto -> 85
+undefinedda -> 88
+infinito -> 89
+relação -> 89
+respeito -> 90
+possível -> 95
+vista -> 95
+maneira -> 95
+wittgenstein -> 95
+É -> 95
+princípio -> 97
+imanente -> 109
+sentido -> 111
+segundo -> 114
+pensamento -> 115
+modo -> 129
+condição -> 133
+priori -> 144
+sujeito -> 149
+==============POS=========================
+undefinedda -> 88
+relação -> 89
+É -> 95
+princípio -> 97
+wittgenstein -> 95
+maneira -> 95
+vista -> 95
+possível -> 95
+sentido -> 111
+pensamento -> 115
+modo -> 129
+segundo -> 114
+priori -> 144
+sujeito -> 149
+condição -> 133
+imanente -> 109
+respeito -> 90
+infinito -> 89
+quanto -> 85
+deve-se -> 38
+===============PRE========================
+deve-se -> 38
+quanto -> 85
+infinito -> 89
+undefinedda -> 88
+respeito -> 90
+relação -> 89
+imanente -> 109
+possível -> 95
+vista -> 95
+maneira -> 95
+wittgenstein -> 95
+princípio -> 97
+É -> 95
+condição -> 133
+segundo -> 114
+sentido -> 111
+modo -> 129
+pensamento -> 115
+sujeito -> 149
+priori -> 144
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+deve-se -> 38
+quanto -> 85
+undefinedda -> 88
+infinito -> 89
+respeito -> 90
+possível -> 95
+princípio -> 97
+imanente -> 109
+sentido -> 111
+segundo -> 114
+pensamento -> 115
+modo -> 129
+condição -> 133
+priori -> 144
+sujeito -> 149
+==============POS=========================
+deve-se -> 38
+undefinedda -> 88
+quanto -> 85
+respeito -> 90
+infinito -> 89
+princípio -> 97
+sentido -> 111
+imanente -> 109
+pensamento -> 115
+modo -> 129
+segundo -> 114
+priori -> 144
+sujeito -> 149
+condição -> 133
+possível -> 95
+===============PRE========================
+possível -> 95
+infinito -> 89
+quanto -> 85
+deve-se -> 38
+undefinedda -> 88
+respeito -> 90
+condição -> 133
+segundo -> 114
+imanente -> 109
+princípio -> 97
+sentido -> 111
+modo -> 129
+pensamento -> 115
+sujeito -> 149
+priori -> 144
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+É -> 95 : 0000
+wittgenstein -> 95 : 0001
+possível -> 95 : 0010
+princípio -> 97 : 0011
+imanente -> 109 : 0100
+sentido -> 111 : 0101
+segundo -> 114 : 0110
+pensamento -> 115 : 0111
+deve-se -> 38 : 10000
+quanto -> 85 : 10001
+modo -> 129 : 1001
+condição -> 133 : 1010
+priori -> 144 : 1011
+sujeito -> 149 : 1100
+undefinedda -> 88 : 11010
+relação -> 89 : 11011
+infinito -> 89 : 11100
+respeito -> 90 : 11101
+vista -> 95 : 11110
+maneira -> 95 : 11111
+==============POS=========================
+É -> 95 : 0000
+wittgenstein -> 95 : 0001
+possível -> 95 : 0010
+princípio -> 97 : 0011
+imanente -> 109 : 0100
+sentido -> 111 : 0101
+segundo -> 114 : 0110
+pensamento -> 115 : 0111
+deve-se -> 38 : 10000
+quanto -> 85 : 10001
+modo -> 129 : 1001
+condição -> 133 : 1010
+priori -> 144 : 1011
+sujeito -> 149 : 1100
+undefinedda -> 88 : 11010
+relação -> 89 : 11011
+infinito -> 89 : 11100
+respeito -> 90 : 11101
+vista -> 95 : 11110
+maneira -> 95 : 11111
+===============PRE========================
+É -> 95 : 0000
+wittgenstein -> 95 : 0001
+possível -> 95 : 0010
+princípio -> 97 : 0011
+imanente -> 109 : 0100
+sentido -> 111 : 0101
+segundo -> 114 : 0110
+pensamento -> 115 : 0111
+deve-se -> 38 : 10000
+quanto -> 85 : 10001
+modo -> 129 : 1001
+condição -> 133 : 1010
+priori -> 144 : 1011
+sujeito -> 149 : 1100
+undefinedda -> 88 : 11010
+relação -> 89 : 11011
+infinito -> 89 : 11100
+respeito -> 90 : 11101
+vista -> 95 : 11110
+maneira -> 95 : 11111
+=========================================
+====================================
+PALAVRA: tempo
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+assim -> 86
+undefinedda -> 88
+relação -> 89
+infinito -> 89
+respeito -> 90
+wittgenstein -> 95
+É -> 95
+maneira -> 95
+possível -> 95
+pode -> 96
+princípio -> 97
+imanente -> 109
+sentido -> 111
+segundo -> 114
+pensamento -> 115
+modo -> 129
+condição -> 133
+priori -> 144
+sujeito -> 149
+==============POS=========================
+undefinedda -> 88
+respeito -> 90
+infinito -> 89
+relação -> 89
+assim -> 86
+possível -> 95
+maneira -> 95
+princípio -> 97
+sentido -> 111
+imanente -> 109
+modo -> 129
+pensamento -> 115
+priori -> 144
+sujeito -> 149
+condição -> 133
+segundo -> 114
+pode -> 96
+É -> 95
+wittgenstein -> 95
+===============PRE========================
+wittgenstein -> 95
+assim -> 86
+relação -> 89
+undefinedda -> 88
+infinito -> 89
+respeito -> 90
+É -> 95
+pode -> 96
+maneira -> 95
+possível -> 95
+segundo -> 114
+imanente -> 109
+princípio -> 97
+sentido -> 111
+condição -> 133
+pensamento -> 115
+modo -> 129
+sujeito -> 149
+priori -> 144
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+assim -> 86
+undefinedda -> 88
+relação -> 89
+respeito -> 90
+wittgenstein -> 95
+pode -> 96
+princípio -> 97
+imanente -> 109
+sentido -> 111
+segundo -> 114
+pensamento -> 115
+modo -> 129
+condição -> 133
+priori -> 144
+sujeito -> 149
+==============POS=========================
+undefinedda -> 88
+assim -> 86
+respeito -> 90
+wittgenstein -> 95
+relação -> 89
+princípio -> 97
+imanente -> 109
+segundo -> 114
+sentido -> 111
+modo -> 129
+condição -> 133
+sujeito -> 149
+priori -> 144
+pensamento -> 115
+pode -> 96
+===============PRE========================
+pode -> 96
+relação -> 89
+assim -> 86
+undefinedda -> 88
+wittgenstein -> 95
+respeito -> 90
+pensamento -> 115
+sentido -> 111
+imanente -> 109
+princípio -> 97
+segundo -> 114
+priori -> 144
+condição -> 133
+modo -> 129
+sujeito -> 149
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+wittgenstein -> 95 : 0000
+maneira -> 95 : 0001
+É -> 95 : 0010
+pode -> 96 : 0011
+princípio -> 97 : 0100
+imanente -> 109 : 0101
+sentido -> 111 : 0110
+segundo -> 114 : 0111
+pensamento -> 115 : 1000
+modo -> 129 : 1001
+condição -> 133 : 1010
+priori -> 144 : 1011
+sujeito -> 149 : 1100
+assim -> 86 : 11010
+undefinedda -> 88 : 11011
+infinito -> 89 : 11100
+relação -> 89 : 11101
+respeito -> 90 : 11110
+possível -> 95 : 11111
+==============POS=========================
+wittgenstein -> 95 : 0000
+maneira -> 95 : 0001
+É -> 95 : 0010
+pode -> 96 : 0011
+princípio -> 97 : 0100
+imanente -> 109 : 0101
+sentido -> 111 : 0110
+segundo -> 114 : 0111
+pensamento -> 115 : 1000
+modo -> 129 : 1001
+condição -> 133 : 1010
+priori -> 144 : 1011
+sujeito -> 149 : 1100
+assim -> 86 : 11010
+undefinedda -> 88 : 11011
+infinito -> 89 : 11100
+relação -> 89 : 11101
+respeito -> 90 : 11110
+possível -> 95 : 11111
+===============PRE========================
+wittgenstein -> 95 : 0000
+maneira -> 95 : 0001
+É -> 95 : 0010
+pode -> 96 : 0011
+princípio -> 97 : 0100
+imanente -> 109 : 0101
+sentido -> 111 : 0110
+segundo -> 114 : 0111
+pensamento -> 115 : 1000
+modo -> 129 : 1001
+condição -> 133 : 1010
+priori -> 144 : 1011
+sujeito -> 149 : 1100
+assim -> 86 : 11010
+undefinedda -> 88 : 11011
+infinito -> 89 : 11100
+relação -> 89 : 11101
+respeito -> 90 : 11110
+possível -> 95 : 11111
+=========================================
+
+===================================
+
+TEXTO 3
+====================================
+PALAVRA: sistema
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+estabelecimento -> 134
+determinação -> 134
+parte -> 134
+funcionais -> 134
+necessidade -> 134
+quadros -> 135
+formas -> 135
+atual -> 135
+informações -> 135
+importante -> 135
+importância -> 136
+podemos -> 136
+É -> 137
+sobre -> 138
+modo -> 138
+pode -> 139
+assim -> 201
+processo -> 201
+sentido -> 203
+==============POS=========================
+necessidade -> 134
+funcionais -> 134
+parte -> 134
+determinação -> 134
+importante -> 135
+informações -> 135
+atual -> 135
+podemos -> 136
+importância -> 136
+formas -> 135
+quadros -> 135
+estabelecimento -> 134
+modo -> 138
+sobre -> 138
+processo -> 201
+sentido -> 203
+assim -> 201
+pode -> 139
+É -> 137
+===============PRE========================
+É -> 137
+estabelecimento -> 134
+quadros -> 135
+determinação -> 134
+parte -> 134
+funcionais -> 134
+necessidade -> 134
+formas -> 135
+importância -> 136
+atual -> 135
+informações -> 135
+importante -> 135
+podemos -> 136
+pode -> 139
+sobre -> 138
+modo -> 138
+assim -> 201
+sentido -> 203
+processo -> 201
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+estabelecimento -> 134
+quadros -> 135
+importância -> 136
+É -> 137
+sobre -> 138
+pode -> 139
+assim -> 201
+sentido -> 203
+==============POS=========================
+estabelecimento -> 134
+importância -> 136
+quadros -> 135
+sobre -> 138
+sentido -> 203
+assim -> 201
+pode -> 139
+É -> 137
+===============PRE========================
+É -> 137
+quadros -> 135
+estabelecimento -> 134
+importância -> 136
+pode -> 139
+sobre -> 138
+assim -> 201
+sentido -> 203
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+atual -> 135 : 0000
+quadros -> 135 : 0001
+informações -> 135 : 0010
+formas -> 135 : 0011
+podemos -> 136 : 0100
+importância -> 136 : 0101
+É -> 137 : 0110
+modo -> 138 : 0111
+sobre -> 138 : 1000
+pode -> 139 : 1001
+processo -> 201 : 1010
+assim -> 201 : 1011
+sentido -> 203 : 1100
+necessidade -> 134 : 11010
+funcionais -> 134 : 11011
+parte -> 134 : 11100
+determinação -> 134 : 11101
+estabelecimento -> 134 : 11110
+importante -> 135 : 11111
+==============POS=========================
+atual -> 135 : 0000
+quadros -> 135 : 0001
+informações -> 135 : 0010
+formas -> 135 : 0011
+podemos -> 136 : 0100
+importância -> 136 : 0101
+É -> 137 : 0110
+modo -> 138 : 0111
+sobre -> 138 : 1000
+pode -> 139 : 1001
+processo -> 201 : 1010
+assim -> 201 : 1011
+sentido -> 203 : 1100
+necessidade -> 134 : 11010
+funcionais -> 134 : 11011
+parte -> 134 : 11100
+determinação -> 134 : 11101
+estabelecimento -> 134 : 11110
+importante -> 135 : 11111
+===============PRE========================
+atual -> 135 : 0000
+quadros -> 135 : 0001
+informações -> 135 : 0010
+formas -> 135 : 0011
+podemos -> 136 : 0100
+importância -> 136 : 0101
+É -> 137 : 0110
+modo -> 138 : 0111
+sobre -> 138 : 1000
+pode -> 139 : 1001
+processo -> 201 : 1010
+assim -> 201 : 1011
+sentido -> 203 : 1100
+necessidade -> 134 : 11010
+funcionais -> 134 : 11011
+parte -> 134 : 11100
+determinação -> 134 : 11101
+estabelecimento -> 134 : 11110
+importante -> 135 : 11111
+=========================================
+====================================
+PALAVRA: sobre
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+ter -> 68
+melhoria -> 134
+determinação -> 134
+prazo -> 134
+parte -> 134
+expansão -> 134
+funcionais -> 134
+necessidade -> 134
+atual -> 135
+impacto -> 135
+quadros -> 135
+importante -> 135
+geral -> 135
+formas -> 135
+importância -> 136
+podemos -> 136
+É -> 137
+pode -> 139
+processo -> 201
+sentido -> 203
+==============POS=========================
+formas -> 135
+geral -> 135
+podemos -> 136
+importância -> 136
+importante -> 135
+quadros -> 135
+impacto -> 135
+pode -> 139
+sentido -> 203
+processo -> 201
+É -> 137
+atual -> 135
+necessidade -> 134
+funcionais -> 134
+expansão -> 134
+parte -> 134
+prazo -> 134
+determinação -> 134
+melhoria -> 134
+ter -> 68
+===============PRE========================
+ter -> 68
+melhoria -> 134
+determinação -> 134
+prazo -> 134
+parte -> 134
+expansão -> 134
+funcionais -> 134
+necessidade -> 134
+atual -> 135
+É -> 137
+impacto -> 135
+quadros -> 135
+importante -> 135
+importância -> 136
+geral -> 135
+formas -> 135
+podemos -> 136
+processo -> 201
+pode -> 139
+sentido -> 203
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+ter -> 68
+melhoria -> 134
+atual -> 135
+importância -> 136
+É -> 137
+pode -> 139
+processo -> 201
+sentido -> 203
+==============POS=========================
+ter -> 68
+atual -> 135
+melhoria -> 134
+É -> 137
+sentido -> 203
+processo -> 201
+pode -> 139
+importância -> 136
+===============PRE========================
+importância -> 136
+melhoria -> 134
+ter -> 68
+atual -> 135
+pode -> 139
+É -> 137
+processo -> 201
+sentido -> 203
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+formas -> 135 : 0000
+atual -> 135 : 0001
+importante -> 135 : 0010
+geral -> 135 : 0011
+impacto -> 135 : 0100
+quadros -> 135 : 0101
+podemos -> 136 : 0110
+importância -> 136 : 0111
+É -> 137 : 1000
+pode -> 139 : 1001
+processo -> 201 : 1010
+ter -> 68 : 10110
+necessidade -> 134 : 10111
+sentido -> 203 : 1100
+determinação -> 134 : 11010
+expansão -> 134 : 11011
+prazo -> 134 : 11100
+funcionais -> 134 : 11101
+parte -> 134 : 11110
+melhoria -> 134 : 11111
+==============POS=========================
+formas -> 135 : 0000
+atual -> 135 : 0001
+importante -> 135 : 0010
+geral -> 135 : 0011
+impacto -> 135 : 0100
+quadros -> 135 : 0101
+podemos -> 136 : 0110
+importância -> 136 : 0111
+É -> 137 : 1000
+pode -> 139 : 1001
+processo -> 201 : 1010
+ter -> 68 : 10110
+necessidade -> 134 : 10111
+sentido -> 203 : 1100
+determinação -> 134 : 11010
+expansão -> 134 : 11011
+prazo -> 134 : 11100
+funcionais -> 134 : 11101
+parte -> 134 : 11110
+melhoria -> 134 : 11111
+===============PRE========================
+formas -> 135 : 0000
+atual -> 135 : 0001
+importante -> 135 : 0010
+geral -> 135 : 0011
+impacto -> 135 : 0100
+quadros -> 135 : 0101
+podemos -> 136 : 0110
+importância -> 136 : 0111
+É -> 137 : 1000
+pode -> 139 : 1001
+processo -> 201 : 1010
+ter -> 68 : 10110
+necessidade -> 134 : 10111
+sentido -> 203 : 1100
+determinação -> 134 : 11010
+expansão -> 134 : 11011
+prazo -> 134 : 11100
+funcionais -> 134 : 11101
+parte -> 134 : 11110
+melhoria -> 134 : 11111
+=========================================
+====================================
+PALAVRA: mundo
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+necessidade -> 134
+melhoria -> 134
+parte -> 134
+funcionais -> 134
+atual -> 135
+impacto -> 135
+geral -> 135
+informações -> 135
+formas -> 135
+importante -> 135
+quadros -> 135
+podemos -> 136
+importância -> 136
+É -> 137
+modo -> 138
+pode -> 139
+assim -> 201
+processo -> 201
+sentido -> 203
+==============POS=========================
+funcionais -> 134
+parte -> 134
+melhoria -> 134
+quadros -> 135
+importância -> 136
+podemos -> 136
+importante -> 135
+modo -> 138
+É -> 137
+formas -> 135
+informações -> 135
+geral -> 135
+impacto -> 135
+atual -> 135
+necessidade -> 134
+sentido -> 203
+processo -> 201
+assim -> 201
+pode -> 139
+===============PRE========================
+pode -> 139
+necessidade -> 134
+atual -> 135
+melhoria -> 134
+parte -> 134
+funcionais -> 134
+impacto -> 135
+geral -> 135
+informações -> 135
+formas -> 135
+É -> 137
+importante -> 135
+podemos -> 136
+quadros -> 135
+importância -> 136
+modo -> 138
+assim -> 201
+processo -> 201
+sentido -> 203
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+necessidade -> 134
+atual -> 135
+podemos -> 136
+É -> 137
+modo -> 138
+pode -> 139
+assim -> 201
+sentido -> 203
+==============POS=========================
+necessidade -> 134
+podemos -> 136
+atual -> 135
+modo -> 138
+sentido -> 203
+assim -> 201
+pode -> 139
+É -> 137
+===============PRE========================
+É -> 137
+atual -> 135
+necessidade -> 134
+podemos -> 136
+pode -> 139
+modo -> 138
+assim -> 201
+sentido -> 203
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+informações -> 135 : 0000
+atual -> 135 : 0001
+quadros -> 135 : 0010
+formas -> 135 : 0011
+geral -> 135 : 0100
+importância -> 136 : 0101
+podemos -> 136 : 0110
+É -> 137 : 0111
+modo -> 138 : 1000
+pode -> 139 : 1001
+assim -> 201 : 1010
+processo -> 201 : 1011
+sentido -> 203 : 1100
+funcionais -> 134 : 11010
+parte -> 134 : 11011
+melhoria -> 134 : 11100
+necessidade -> 134 : 11101
+impacto -> 135 : 11110
+importante -> 135 : 11111
+==============POS=========================
+informações -> 135 : 0000
+atual -> 135 : 0001
+quadros -> 135 : 0010
+formas -> 135 : 0011
+geral -> 135 : 0100
+importância -> 136 : 0101
+podemos -> 136 : 0110
+É -> 137 : 0111
+modo -> 138 : 1000
+pode -> 139 : 1001
+assim -> 201 : 1010
+processo -> 201 : 1011
+sentido -> 203 : 1100
+funcionais -> 134 : 11010
+parte -> 134 : 11011
+melhoria -> 134 : 11100
+necessidade -> 134 : 11101
+impacto -> 135 : 11110
+importante -> 135 : 11111
+===============PRE========================
+informações -> 135 : 0000
+atual -> 135 : 0001
+quadros -> 135 : 0010
+formas -> 135 : 0011
+geral -> 135 : 0100
+importância -> 136 : 0101
+podemos -> 136 : 0110
+É -> 137 : 0111
+modo -> 138 : 1000
+pode -> 139 : 1001
+assim -> 201 : 1010
+processo -> 201 : 1011
+sentido -> 203 : 1100
+funcionais -> 134 : 11010
+parte -> 134 : 11011
+melhoria -> 134 : 11100
+necessidade -> 134 : 11101
+impacto -> 135 : 11110
+importante -> 135 : 11111
+=========================================
+====================================
+PALAVRA: teoria
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+ter -> 68
+formação -> 133
+atividade -> 133
+funcionais -> 134
+parte -> 134
+necessidade -> 134
+condições -> 134
+determinação -> 134
+importante -> 135
+geral -> 135
+quadros -> 135
+formas -> 135
+impacto -> 135
+podemos -> 136
+importância -> 136
+É -> 137
+modo -> 138
+pode -> 139
+processo -> 201
+sentido -> 203
+==============POS=========================
+determinação -> 134
+condições -> 134
+necessidade -> 134
+parte -> 134
+funcionais -> 134
+atividade -> 133
+impacto -> 135
+formas -> 135
+quadros -> 135
+É -> 137
+pode -> 139
+processo -> 201
+modo -> 138
+importância -> 136
+sentido -> 203
+podemos -> 136
+geral -> 135
+importante -> 135
+formação -> 133
+ter -> 68
+===============PRE========================
+ter -> 68
+formação -> 133
+importante -> 135
+atividade -> 133
+funcionais -> 134
+parte -> 134
+necessidade -> 134
+condições -> 134
+determinação -> 134
+geral -> 135
+podemos -> 136
+quadros -> 135
+formas -> 135
+impacto -> 135
+sentido -> 203
+importância -> 136
+modo -> 138
+É -> 137
+processo -> 201
+pode -> 139
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+ter -> 68
+formação -> 133
+funcionais -> 134
+importante -> 135
+podemos -> 136
+É -> 137
+modo -> 138
+pode -> 139
+processo -> 201
+sentido -> 203
+==============POS=========================
+ter -> 68
+funcionais -> 134
+formação -> 133
+É -> 137
+podemos -> 136
+pode -> 139
+sentido -> 203
+processo -> 201
+modo -> 138
+importante -> 135
+===============PRE========================
+importante -> 135
+formação -> 133
+ter -> 68
+funcionais -> 134
+modo -> 138
+podemos -> 136
+É -> 137
+processo -> 201
+pode -> 139
+sentido -> 203
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+formas -> 135 : 0000
+impacto -> 135 : 0001
+quadros -> 135 : 0010
+geral -> 135 : 0011
+importante -> 135 : 0100
+importância -> 136 : 0101
+podemos -> 136 : 0110
+É -> 137 : 0111
+modo -> 138 : 1000
+pode -> 139 : 1001
+ter -> 68 : 10100
+atividade -> 133 : 10101
+processo -> 201 : 1011
+sentido -> 203 : 1100
+formação -> 133 : 11010
+parte -> 134 : 11011
+condições -> 134 : 11100
+funcionais -> 134 : 11101
+determinação -> 134 : 11110
+necessidade -> 134 : 11111
+==============POS=========================
+formas -> 135 : 0000
+impacto -> 135 : 0001
+quadros -> 135 : 0010
+geral -> 135 : 0011
+importante -> 135 : 0100
+importância -> 136 : 0101
+podemos -> 136 : 0110
+É -> 137 : 0111
+modo -> 138 : 1000
+pode -> 139 : 1001
+ter -> 68 : 10100
+atividade -> 133 : 10101
+processo -> 201 : 1011
+sentido -> 203 : 1100
+formação -> 133 : 11010
+parte -> 134 : 11011
+condições -> 134 : 11100
+funcionais -> 134 : 11101
+determinação -> 134 : 11110
+necessidade -> 134 : 11111
+===============PRE========================
+formas -> 135 : 0000
+impacto -> 135 : 0001
+quadros -> 135 : 0010
+geral -> 135 : 0011
+importante -> 135 : 0100
+importância -> 136 : 0101
+podemos -> 136 : 0110
+É -> 137 : 0111
+modo -> 138 : 1000
+pode -> 139 : 1001
+ter -> 68 : 10100
+atividade -> 133 : 10101
+processo -> 201 : 1011
+sentido -> 203 : 1100
+formação -> 133 : 11010
+parte -> 134 : 11011
+condições -> 134 : 11100
+funcionais -> 134 : 11101
+determinação -> 134 : 11110
+necessidade -> 134 : 11111
+=========================================
+====================================
+PALAVRA: tempo
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+melhoria -> 134
+funcionais -> 134
+determinação -> 134
+pontos -> 134
+condições -> 134
+informações -> 135
+formas -> 135
+impacto -> 135
+importante -> 135
+quadros -> 135
+atual -> 135
+podemos -> 136
+importância -> 136
+É -> 137
+modo -> 138
+pode -> 139
+assim -> 201
+processo -> 201
+sentido -> 203
+==============POS=========================
+condições -> 134
+pontos -> 134
+determinação -> 134
+funcionais -> 134
+atual -> 135
+quadros -> 135
+importante -> 135
+importância -> 136
+podemos -> 136
+impacto -> 135
+formas -> 135
+informações -> 135
+melhoria -> 134
+modo -> 138
+sentido -> 203
+processo -> 201
+assim -> 201
+pode -> 139
+É -> 137
+===============PRE========================
+É -> 137
+melhoria -> 134
+informações -> 135
+funcionais -> 134
+determinação -> 134
+pontos -> 134
+condições -> 134
+formas -> 135
+impacto -> 135
+podemos -> 136
+importante -> 135
+quadros -> 135
+atual -> 135
+importância -> 136
+pode -> 139
+modo -> 138
+assim -> 201
+processo -> 201
+sentido -> 203
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+melhoria -> 134
+informações -> 135
+podemos -> 136
+É -> 137
+modo -> 138
+pode -> 139
+assim -> 201
+sentido -> 203
+==============POS=========================
+melhoria -> 134
+podemos -> 136
+informações -> 135
+modo -> 138
+sentido -> 203
+assim -> 201
+pode -> 139
+É -> 137
+===============PRE========================
+É -> 137
+informações -> 135
+melhoria -> 134
+podemos -> 136
+pode -> 139
+modo -> 138
+assim -> 201
+sentido -> 203
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+atual -> 135 : 0000
+importante -> 135 : 0001
+impacto -> 135 : 0010
+informações -> 135 : 0011
+formas -> 135 : 0100
+podemos -> 136 : 0101
+importância -> 136 : 0110
+É -> 137 : 0111
+modo -> 138 : 1000
+pode -> 139 : 1001
+processo -> 201 : 1010
+assim -> 201 : 1011
+sentido -> 203 : 1100
+determinação -> 134 : 11010
+funcionais -> 134 : 11011
+condições -> 134 : 11100
+pontos -> 134 : 11101
+melhoria -> 134 : 11110
+quadros -> 135 : 11111
+==============POS=========================
+atual -> 135 : 0000
+importante -> 135 : 0001
+impacto -> 135 : 0010
+informações -> 135 : 0011
+formas -> 135 : 0100
+podemos -> 136 : 0101
+importância -> 136 : 0110
+É -> 137 : 0111
+modo -> 138 : 1000
+pode -> 139 : 1001
+processo -> 201 : 1010
+assim -> 201 : 1011
+sentido -> 203 : 1100
+determinação -> 134 : 11010
+funcionais -> 134 : 11011
+condições -> 134 : 11100
+pontos -> 134 : 11101
+melhoria -> 134 : 11110
+quadros -> 135 : 11111
+===============PRE========================
+atual -> 135 : 0000
+importante -> 135 : 0001
+impacto -> 135 : 0010
+informações -> 135 : 0011
+formas -> 135 : 0100
+podemos -> 136 : 0101
+importância -> 136 : 0110
+É -> 137 : 0111
+modo -> 138 : 1000
+pode -> 139 : 1001
+processo -> 201 : 1010
+assim -> 201 : 1011
+sentido -> 203 : 1100
+determinação -> 134 : 11010
+funcionais -> 134 : 11011
+condições -> 134 : 11100
+pontos -> 134 : 11101
+melhoria -> 134 : 11110
+quadros -> 135 : 11111
+=========================================
+
+===================================
+
+TEXTO 4
+====================================
+PALAVRA: sistema
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+a񥌑 -> 1
+estabelecimento -> 136
+determinação -> 137
+importante -> 137
+formação -> 137
+sobre -> 137
+formas -> 138
+impacto -> 138
+informações -> 139
+pode -> 140
+podemos -> 140
+política -> 198
+metas -> 199
+eleitores -> 199
+processo -> 203
+melhoria -> 205
+atual -> 205
+assim -> 206
+políticas -> 269
+político -> 402
+==============POS=========================
+impacto -> 138
+formas -> 138
+sobre -> 137
+podemos -> 140
+pode -> 140
+informações -> 139
+formação -> 137
+importante -> 137
+determinação -> 137
+eleitores -> 199
+metas -> 199
+atual -> 205
+melhoria -> 205
+político -> 402
+políticas -> 269
+assim -> 206
+processo -> 203
+política -> 198
+estabelecimento -> 136
+a񥌑 -> 1
+===============PRE========================
+a񥌑 -> 1
+estabelecimento -> 136
+política -> 198
+determinação -> 137
+importante -> 137
+formação -> 137
+informações -> 139
+sobre -> 137
+formas -> 138
+impacto -> 138
+pode -> 140
+podemos -> 140
+processo -> 203
+metas -> 199
+eleitores -> 199
+assim -> 206
+melhoria -> 205
+atual -> 205
+políticas -> 269
+político -> 402
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+a񥌑 -> 1
+estabelecimento -> 136
+determinação -> 137
+formas -> 138
+informações -> 139
+pode -> 140
+política -> 198
+metas -> 199
+processo -> 203
+melhoria -> 205
+assim -> 206
+políticas -> 269
+político -> 402
+==============POS=========================
+a񥌑 -> 1
+estabelecimento -> 136
+formas -> 138
+pode -> 140
+informações -> 139
+determinação -> 137
+metas -> 199
+processo -> 203
+assim -> 206
+político -> 402
+políticas -> 269
+melhoria -> 205
+política -> 198
+===============PRE========================
+política -> 198
+determinação -> 137
+estabelecimento -> 136
+a񥌑 -> 1
+informações -> 139
+formas -> 138
+pode -> 140
+melhoria -> 205
+processo -> 203
+metas -> 199
+políticas -> 269
+assim -> 206
+político -> 402
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+podemos -> 140 : 0000
+pode -> 140 : 0001
+política -> 198 : 0010
+eleitores -> 199 : 0011
+político -> 402 : 010
+metas -> 199 : 0110
+processo -> 203 : 0111
+atual -> 205 : 1000
+melhoria -> 205 : 1001
+assim -> 206 : 1010
+políticas -> 269 : 1011
+determinação -> 137 : 11000
+sobre -> 137 : 11001
+a񥌑 -> 1 : 110100
+estabelecimento -> 136 : 110101
+formação -> 137 : 11011
+importante -> 137 : 11100
+formas -> 138 : 11101
+impacto -> 138 : 11110
+informações -> 139 : 11111
+==============POS=========================
+podemos -> 140 : 0000
+pode -> 140 : 0001
+política -> 198 : 0010
+eleitores -> 199 : 0011
+político -> 402 : 010
+metas -> 199 : 0110
+processo -> 203 : 0111
+atual -> 205 : 1000
+melhoria -> 205 : 1001
+assim -> 206 : 1010
+políticas -> 269 : 1011
+determinação -> 137 : 11000
+sobre -> 137 : 11001
+a񥌑 -> 1 : 110100
+estabelecimento -> 136 : 110101
+formação -> 137 : 11011
+importante -> 137 : 11100
+formas -> 138 : 11101
+impacto -> 138 : 11110
+informações -> 139 : 11111
+===============PRE========================
+podemos -> 140 : 0000
+pode -> 140 : 0001
+política -> 198 : 0010
+eleitores -> 199 : 0011
+político -> 402 : 010
+metas -> 199 : 0110
+processo -> 203 : 0111
+atual -> 205 : 1000
+melhoria -> 205 : 1001
+assim -> 206 : 1010
+políticas -> 269 : 1011
+determinação -> 137 : 11000
+sobre -> 137 : 11001
+a񥌑 -> 1 : 110100
+estabelecimento -> 136 : 110101
+formação -> 137 : 11011
+importante -> 137 : 11100
+formas -> 138 : 11101
+impacto -> 138 : 11110
+informações -> 139 : 11111
+=========================================
+====================================
+PALAVRA: sobre
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+estabelecimento -> 136
+parte -> 136
+formação -> 137
+determinação -> 137
+impacto -> 138
+formas -> 138
+informações -> 139
+importância -> 139
+pode -> 140
+modo -> 141
+política -> 198
+eleitores -> 199
+metas -> 199
+processo -> 203
+melhoria -> 205
+atual -> 205
+assim -> 206
+políticas -> 269
+político -> 402
+==============POS=========================
+formas -> 138
+impacto -> 138
+determinação -> 137
+formação -> 137
+importância -> 139
+informações -> 139
+parte -> 136
+estabelecimento -> 136
+modo -> 141
+política -> 198
+processo -> 203
+metas -> 199
+eleitores -> 199
+assim -> 206
+políticas -> 269
+atual -> 205
+político -> 402
+melhoria -> 205
+pode -> 140
+===============PRE========================
+pode -> 140
+estabelecimento -> 136
+parte -> 136
+informações -> 139
+formação -> 137
+determinação -> 137
+impacto -> 138
+formas -> 138
+importância -> 139
+melhoria -> 205
+eleitores -> 199
+política -> 198
+modo -> 141
+metas -> 199
+processo -> 203
+político -> 402
+atual -> 205
+políticas -> 269
+assim -> 206
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+estabelecimento -> 136
+formação -> 137
+impacto -> 138
+informações -> 139
+pode -> 140
+modo -> 141
+política -> 198
+eleitores -> 199
+processo -> 203
+melhoria -> 205
+assim -> 206
+políticas -> 269
+político -> 402
+==============POS=========================
+estabelecimento -> 136
+impacto -> 138
+informações -> 139
+formação -> 137
+modo -> 141
+política -> 198
+processo -> 203
+eleitores -> 199
+assim -> 206
+político -> 402
+políticas -> 269
+melhoria -> 205
+pode -> 140
+===============PRE========================
+pode -> 140
+formação -> 137
+estabelecimento -> 136
+informações -> 139
+impacto -> 138
+melhoria -> 205
+eleitores -> 199
+política -> 198
+modo -> 141
+processo -> 203
+políticas -> 269
+assim -> 206
+político -> 402
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+pode -> 140 : 0000
+modo -> 141 : 0001
+política -> 198 : 0010
+eleitores -> 199 : 0011
+político -> 402 : 010
+metas -> 199 : 0110
+processo -> 203 : 0111
+atual -> 205 : 1000
+melhoria -> 205 : 1001
+assim -> 206 : 1010
+políticas -> 269 : 1011
+parte -> 136 : 11000
+estabelecimento -> 136 : 11001
+determinação -> 137 : 11010
+formação -> 137 : 11011
+formas -> 138 : 11100
+impacto -> 138 : 11101
+importância -> 139 : 11110
+informações -> 139 : 11111
+==============POS=========================
+pode -> 140 : 0000
+modo -> 141 : 0001
+política -> 198 : 0010
+eleitores -> 199 : 0011
+político -> 402 : 010
+metas -> 199 : 0110
+processo -> 203 : 0111
+atual -> 205 : 1000
+melhoria -> 205 : 1001
+assim -> 206 : 1010
+políticas -> 269 : 1011
+parte -> 136 : 11000
+estabelecimento -> 136 : 11001
+determinação -> 137 : 11010
+formação -> 137 : 11011
+formas -> 138 : 11100
+impacto -> 138 : 11101
+importância -> 139 : 11110
+informações -> 139 : 11111
+===============PRE========================
+pode -> 140 : 0000
+modo -> 141 : 0001
+política -> 198 : 0010
+eleitores -> 199 : 0011
+político -> 402 : 010
+metas -> 199 : 0110
+processo -> 203 : 0111
+atual -> 205 : 1000
+melhoria -> 205 : 1001
+assim -> 206 : 1010
+políticas -> 269 : 1011
+parte -> 136 : 11000
+estabelecimento -> 136 : 11001
+determinação -> 137 : 11010
+formação -> 137 : 11011
+formas -> 138 : 11100
+impacto -> 138 : 11101
+importância -> 139 : 11110
+informações -> 139 : 11111
+=========================================
+====================================
+PALAVRA: mundo
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+a񥌑 -> 1
+importante -> 137
+formação -> 137
+determinação -> 137
+geral -> 138
+impacto -> 138
+condições -> 138
+informações -> 139
+podemos -> 140
+pode -> 140
+metas -> 199
+eleitores -> 199
+saúde -> 201
+processo -> 203
+melhoria -> 205
+atual -> 205
+assim -> 206
+sentido -> 206
+políticas -> 269
+político -> 402
+==============POS=========================
+condições -> 138
+impacto -> 138
+geral -> 138
+determinação -> 137
+formação -> 137
+pode -> 140
+podemos -> 140
+saúde -> 201
+processo -> 203
+eleitores -> 199
+metas -> 199
+sentido -> 206
+assim -> 206
+atual -> 205
+políticas -> 269
+político -> 402
+melhoria -> 205
+informações -> 139
+importante -> 137
+a񥌑 -> 1
+===============PRE========================
+a񥌑 -> 1
+importante -> 137
+informações -> 139
+formação -> 137
+determinação -> 137
+geral -> 138
+impacto -> 138
+condições -> 138
+melhoria -> 205
+metas -> 199
+podemos -> 140
+pode -> 140
+eleitores -> 199
+processo -> 203
+saúde -> 201
+político -> 402
+políticas -> 269
+atual -> 205
+assim -> 206
+sentido -> 206
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+a񥌑 -> 1
+importante -> 137
+geral -> 138
+informações -> 139
+podemos -> 140
+metas -> 199
+saúde -> 201
+processo -> 203
+melhoria -> 205
+assim -> 206
+políticas -> 269
+político -> 402
+==============POS=========================
+a񥌑 -> 1
+geral -> 138
+importante -> 137
+podemos -> 140
+informações -> 139
+saúde -> 201
+processo -> 203
+assim -> 206
+político -> 402
+políticas -> 269
+melhoria -> 205
+metas -> 199
+===============PRE========================
+metas -> 199
+informações -> 139
+importante -> 137
+a񥌑 -> 1
+geral -> 138
+podemos -> 140
+melhoria -> 205
+processo -> 203
+saúde -> 201
+políticas -> 269
+assim -> 206
+político -> 402
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+podemos -> 140 : 0000
+eleitores -> 199 : 0001
+metas -> 199 : 0010
+saúde -> 201 : 0011
+político -> 402 : 010
+processo -> 203 : 0110
+atual -> 205 : 0111
+melhoria -> 205 : 1000
+assim -> 206 : 1001
+sentido -> 206 : 1010
+políticas -> 269 : 1011
+importante -> 137 : 11000
+formação -> 137 : 11001
+impacto -> 138 : 11010
+condições -> 138 : 11011
+a񥌑 -> 1 : 111000
+determinação -> 137 : 111001
+geral -> 138 : 11101
+informações -> 139 : 11110
+pode -> 140 : 11111
+==============POS=========================
+podemos -> 140 : 0000
+eleitores -> 199 : 0001
+metas -> 199 : 0010
+saúde -> 201 : 0011
+político -> 402 : 010
+processo -> 203 : 0110
+atual -> 205 : 0111
+melhoria -> 205 : 1000
+assim -> 206 : 1001
+sentido -> 206 : 1010
+políticas -> 269 : 1011
+importante -> 137 : 11000
+formação -> 137 : 11001
+impacto -> 138 : 11010
+condições -> 138 : 11011
+a񥌑 -> 1 : 111000
+determinação -> 137 : 111001
+geral -> 138 : 11101
+informações -> 139 : 11110
+pode -> 140 : 11111
+===============PRE========================
+podemos -> 140 : 0000
+eleitores -> 199 : 0001
+metas -> 199 : 0010
+saúde -> 201 : 0011
+político -> 402 : 010
+processo -> 203 : 0110
+atual -> 205 : 0111
+melhoria -> 205 : 1000
+assim -> 206 : 1001
+sentido -> 206 : 1010
+políticas -> 269 : 1011
+importante -> 137 : 11000
+formação -> 137 : 11001
+impacto -> 138 : 11010
+condições -> 138 : 11011
+a񥌑 -> 1 : 111000
+determinação -> 137 : 111001
+geral -> 138 : 11101
+informações -> 139 : 11110
+pode -> 140 : 11111
+=========================================
+====================================
+PALAVRA: teoria
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+ainda -> 136
+estabelecimento -> 136
+longo -> 136
+formação -> 137
+formas -> 138
+impacto -> 138
+informações -> 139
+podemos -> 140
+modo -> 141
+política -> 198
+metas -> 199
+eleitores -> 199
+processo -> 203
+melhoria -> 205
+atual -> 205
+sentido -> 206
+assim -> 206
+políticas -> 269
+político -> 402
+==============POS=========================
+longo -> 136
+impacto -> 138
+formas -> 138
+modo -> 141
+podemos -> 140
+política -> 198
+informações -> 139
+formação -> 137
+estabelecimento -> 136
+ainda -> 136
+eleitores -> 199
+atual -> 205
+assim -> 206
+políticas -> 269
+político -> 402
+sentido -> 206
+melhoria -> 205
+processo -> 203
+metas -> 199
+===============PRE========================
+metas -> 199
+ainda -> 136
+estabelecimento -> 136
+formação -> 137
+longo -> 136
+informações -> 139
+formas -> 138
+impacto -> 138
+política -> 198
+podemos -> 140
+modo -> 141
+processo -> 203
+eleitores -> 199
+melhoria -> 205
+sentido -> 206
+atual -> 205
+político -> 402
+políticas -> 269
+assim -> 206
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+ainda -> 136
+formação -> 137
+formas -> 138
+informações -> 139
+podemos -> 140
+modo -> 141
+política -> 198
+metas -> 199
+processo -> 203
+melhoria -> 205
+sentido -> 206
+políticas -> 269
+político -> 402
+==============POS=========================
+ainda -> 136
+formas -> 138
+formação -> 137
+podemos -> 140
+política -> 198
+modo -> 141
+informações -> 139
+processo -> 203
+sentido -> 206
+político -> 402
+políticas -> 269
+melhoria -> 205
+metas -> 199
+===============PRE========================
+metas -> 199
+informações -> 139
+formação -> 137
+ainda -> 136
+formas -> 138
+modo -> 141
+podemos -> 140
+política -> 198
+melhoria -> 205
+processo -> 203
+políticas -> 269
+sentido -> 206
+político -> 402
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+modo -> 141 : 0000
+política -> 198 : 0001
+metas -> 199 : 0010
+eleitores -> 199 : 0011
+político -> 402 : 010
+processo -> 203 : 0110
+atual -> 205 : 0111
+melhoria -> 205 : 1000
+sentido -> 206 : 1001
+assim -> 206 : 1010
+políticas -> 269 : 1011
+longo -> 136 : 11000
+estabelecimento -> 136 : 11001
+ainda -> 136 : 11010
+formação -> 137 : 11011
+impacto -> 138 : 11100
+formas -> 138 : 11101
+informações -> 139 : 11110
+podemos -> 140 : 11111
+==============POS=========================
+modo -> 141 : 0000
+política -> 198 : 0001
+metas -> 199 : 0010
+eleitores -> 199 : 0011
+político -> 402 : 010
+processo -> 203 : 0110
+atual -> 205 : 0111
+melhoria -> 205 : 1000
+sentido -> 206 : 1001
+assim -> 206 : 1010
+políticas -> 269 : 1011
+longo -> 136 : 11000
+estabelecimento -> 136 : 11001
+ainda -> 136 : 11010
+formação -> 137 : 11011
+impacto -> 138 : 11100
+formas -> 138 : 11101
+informações -> 139 : 11110
+podemos -> 140 : 11111
+===============PRE========================
+modo -> 141 : 0000
+política -> 198 : 0001
+metas -> 199 : 0010
+eleitores -> 199 : 0011
+político -> 402 : 010
+processo -> 203 : 0110
+atual -> 205 : 0111
+melhoria -> 205 : 1000
+sentido -> 206 : 1001
+assim -> 206 : 1010
+políticas -> 269 : 1011
+longo -> 136 : 11000
+estabelecimento -> 136 : 11001
+ainda -> 136 : 11010
+formação -> 137 : 11011
+impacto -> 138 : 11100
+formas -> 138 : 11101
+informações -> 139 : 11110
+podemos -> 140 : 11111
+=========================================
+====================================
+PALAVRA: tempo
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+a񥌑 -> 1
+importante -> 137
+determinação -> 137
+formação -> 137
+formas -> 138
+geral -> 138
+condições -> 138
+informações -> 139
+podemos -> 140
+pode -> 140
+modo -> 141
+metas -> 199
+saúde -> 201
+processo -> 203
+atual -> 205
+melhoria -> 205
+sentido -> 206
+assim -> 206
+políticas -> 269
+político -> 402
+==============POS=========================
+formação -> 137
+condições -> 138
+geral -> 138
+informações -> 139
+metas -> 199
+modo -> 141
+melhoria -> 205
+atual -> 205
+processo -> 203
+assim -> 206
+políticas -> 269
+político -> 402
+sentido -> 206
+saúde -> 201
+pode -> 140
+podemos -> 140
+formas -> 138
+determinação -> 137
+importante -> 137
+a񥌑 -> 1
+===============PRE========================
+a񥌑 -> 1
+importante -> 137
+determinação -> 137
+formas -> 138
+formação -> 137
+podemos -> 140
+informações -> 139
+geral -> 138
+condições -> 138
+pode -> 140
+saúde -> 201
+modo -> 141
+metas -> 199
+sentido -> 206
+processo -> 203
+atual -> 205
+melhoria -> 205
+político -> 402
+políticas -> 269
+assim -> 206
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+a񥌑 -> 1
+importante -> 137
+formas -> 138
+informações -> 139
+podemos -> 140
+modo -> 141
+metas -> 199
+saúde -> 201
+processo -> 203
+atual -> 205
+sentido -> 206
+políticas -> 269
+político -> 402
+==============POS=========================
+a񥌑 -> 1
+formas -> 138
+importante -> 137
+podemos -> 140
+metas -> 199
+modo -> 141
+informações -> 139
+atual -> 205
+processo -> 203
+político -> 402
+políticas -> 269
+sentido -> 206
+saúde -> 201
+===============PRE========================
+saúde -> 201
+informações -> 139
+importante -> 137
+a񥌑 -> 1
+formas -> 138
+modo -> 141
+podemos -> 140
+metas -> 199
+sentido -> 206
+processo -> 203
+atual -> 205
+políticas -> 269
+político -> 402
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+pode -> 140 : 0000
+modo -> 141 : 0001
+metas -> 199 : 0010
+saúde -> 201 : 0011
+político -> 402 : 010
+processo -> 203 : 0110
+atual -> 205 : 0111
+melhoria -> 205 : 1000
+assim -> 206 : 1001
+sentido -> 206 : 1010
+políticas -> 269 : 1011
+importante -> 137 : 11000
+determinação -> 137 : 11001
+geral -> 138 : 11010
+condições -> 138 : 11011
+a񥌑 -> 1 : 111000
+formação -> 137 : 111001
+formas -> 138 : 11101
+informações -> 139 : 11110
+podemos -> 140 : 11111
+==============POS=========================
+pode -> 140 : 0000
+modo -> 141 : 0001
+metas -> 199 : 0010
+saúde -> 201 : 0011
+político -> 402 : 010
+processo -> 203 : 0110
+atual -> 205 : 0111
+melhoria -> 205 : 1000
+assim -> 206 : 1001
+sentido -> 206 : 1010
+políticas -> 269 : 1011
+importante -> 137 : 11000
+determinação -> 137 : 11001
+geral -> 138 : 11010
+condições -> 138 : 11011
+a񥌑 -> 1 : 111000
+formação -> 137 : 111001
+formas -> 138 : 11101
+informações -> 139 : 11110
+podemos -> 140 : 11111
+===============PRE========================
+pode -> 140 : 0000
+modo -> 141 : 0001
+metas -> 199 : 0010
+saúde -> 201 : 0011
+político -> 402 : 010
+processo -> 203 : 0110
+atual -> 205 : 0111
+melhoria -> 205 : 1000
+assim -> 206 : 1001
+sentido -> 206 : 1010
+políticas -> 269 : 1011
+importante -> 137 : 11000
+determinação -> 137 : 11001
+geral -> 138 : 11010
+condições -> 138 : 11011
+a񥌑 -> 1 : 111000
+formação -> 137 : 111001
+formas -> 138 : 11101
+informações -> 139 : 11110
+podemos -> 140 : 11111
+=========================================
+
+===================================
+
+TEXTO 5
+====================================
+PALAVRA: sistema
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+entre񪔡 -> 1
+problemas -> 134
+deve -> 135
+envolvidos -> 135
+sentido -> 136
+É -> 137
+podemos -> 137
+modo -> 138
+hardware -> 199
+impacto -> 200
+aumento -> 200
+assim -> 200
+desenvolvimento -> 201
+melhor -> 201
+informações -> 202
+dados -> 202
+novas -> 202
+implantação -> 266
+segurança -> 268
+utilização -> 399
+==============POS=========================
+sentido -> 136
+podemos -> 137
+hardware -> 199
+modo -> 138
+assim -> 200
+aumento -> 200
+novas -> 202
+dados -> 202
+informações -> 202
+utilização -> 399
+segurança -> 268
+implantação -> 266
+melhor -> 201
+desenvolvimento -> 201
+impacto -> 200
+É -> 137
+envolvidos -> 135
+deve -> 135
+problemas -> 134
+entre񪔡 -> 1
+===============PRE========================
+entre񪔡 -> 1
+problemas -> 134
+deve -> 135
+envolvidos -> 135
+É -> 137
+sentido -> 136
+impacto -> 200
+modo -> 138
+podemos -> 137
+hardware -> 199
+desenvolvimento -> 201
+aumento -> 200
+assim -> 200
+melhor -> 201
+implantação -> 266
+informações -> 202
+dados -> 202
+novas -> 202
+segurança -> 268
+utilização -> 399
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+entre񪔡 -> 1
+problemas -> 134
+deve -> 135
+sentido -> 136
+É -> 137
+modo -> 138
+hardware -> 199
+impacto -> 200
+desenvolvimento -> 201
+informações -> 202
+implantação -> 266
+segurança -> 268
+utilização -> 399
+==============POS=========================
+entre񪔡 -> 1
+sentido -> 136
+deve -> 135
+problemas -> 134
+modo -> 138
+impacto -> 200
+hardware -> 199
+informações -> 202
+utilização -> 399
+segurança -> 268
+implantação -> 266
+desenvolvimento -> 201
+É -> 137
+===============PRE========================
+É -> 137
+problemas -> 134
+entre񪔡 -> 1
+deve -> 135
+sentido -> 136
+desenvolvimento -> 201
+hardware -> 199
+modo -> 138
+impacto -> 200
+implantação -> 266
+informações -> 202
+segurança -> 268
+utilização -> 399
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+utilização -> 399 : 000
+assim -> 200 : 0010
+impacto -> 200 : 0011
+aumento -> 200 : 0100
+desenvolvimento -> 201 : 0101
+melhor -> 201 : 0110
+informações -> 202 : 0111
+dados -> 202 : 1000
+novas -> 202 : 1001
+implantação -> 266 : 1010
+segurança -> 268 : 1011
+entre񪔡 -> 1 : 110000
+problemas -> 134 : 110001
+envolvidos -> 135 : 11001
+deve -> 135 : 11010
+sentido -> 136 : 11011
+podemos -> 137 : 11100
+É -> 137 : 11101
+modo -> 138 : 11110
+hardware -> 199 : 11111
+==============POS=========================
+utilização -> 399 : 000
+assim -> 200 : 0010
+impacto -> 200 : 0011
+aumento -> 200 : 0100
+desenvolvimento -> 201 : 0101
+melhor -> 201 : 0110
+informações -> 202 : 0111
+dados -> 202 : 1000
+novas -> 202 : 1001
+implantação -> 266 : 1010
+segurança -> 268 : 1011
+entre񪔡 -> 1 : 110000
+problemas -> 134 : 110001
+envolvidos -> 135 : 11001
+deve -> 135 : 11010
+sentido -> 136 : 11011
+podemos -> 137 : 11100
+É -> 137 : 11101
+modo -> 138 : 11110
+hardware -> 199 : 11111
+===============PRE========================
+utilização -> 399 : 000
+assim -> 200 : 0010
+impacto -> 200 : 0011
+aumento -> 200 : 0100
+desenvolvimento -> 201 : 0101
+melhor -> 201 : 0110
+informações -> 202 : 0111
+dados -> 202 : 1000
+novas -> 202 : 1001
+implantação -> 266 : 1010
+segurança -> 268 : 1011
+entre񪔡 -> 1 : 110000
+problemas -> 134 : 110001
+envolvidos -> 135 : 11001
+deve -> 135 : 11010
+sentido -> 136 : 11011
+podemos -> 137 : 11100
+É -> 137 : 11101
+modo -> 138 : 11110
+hardware -> 199 : 11111
+=========================================
+====================================
+PALAVRA: sobre
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+problemas -> 134
+sistemas -> 134
+envolvidos -> 135
+necessidade -> 136
+podemos -> 137
+modo -> 138
+hardware -> 199
+assim -> 200
+tempo -> 200
+impacto -> 200
+melhor -> 201
+desenvolvimento -> 201
+ti -> 201
+novas -> 202
+dados -> 202
+informações -> 202
+implantação -> 266
+segurança -> 268
+utilização -> 399
+==============POS=========================
+sistemas -> 134
+necessidade -> 136
+hardware -> 199
+modo -> 138
+podemos -> 137
+envolvidos -> 135
+impacto -> 200
+informações -> 202
+dados -> 202
+segurança -> 268
+implantação -> 266
+novas -> 202
+ti -> 201
+desenvolvimento -> 201
+melhor -> 201
+tempo -> 200
+assim -> 200
+problemas -> 134
+utilização -> 399
+===============PRE========================
+utilização -> 399
+problemas -> 134
+assim -> 200
+envolvidos -> 135
+sistemas -> 134
+podemos -> 137
+necessidade -> 136
+modo -> 138
+hardware -> 199
+tempo -> 200
+melhor -> 201
+impacto -> 200
+desenvolvimento -> 201
+ti -> 201
+novas -> 202
+implantação -> 266
+dados -> 202
+informações -> 202
+segurança -> 268
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+problemas -> 134
+envolvidos -> 135
+necessidade -> 136
+podemos -> 137
+modo -> 138
+hardware -> 199
+assim -> 200
+melhor -> 201
+novas -> 202
+implantação -> 266
+segurança -> 268
+utilização -> 399
+==============POS=========================
+problemas -> 134
+necessidade -> 136
+envolvidos -> 135
+hardware -> 199
+modo -> 138
+podemos -> 137
+melhor -> 201
+implantação -> 266
+utilização -> 399
+segurança -> 268
+novas -> 202
+assim -> 200
+===============PRE========================
+assim -> 200
+podemos -> 137
+envolvidos -> 135
+problemas -> 134
+necessidade -> 136
+modo -> 138
+hardware -> 199
+novas -> 202
+melhor -> 201
+segurança -> 268
+implantação -> 266
+utilização -> 399
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+utilização -> 399 : 000
+tempo -> 200 : 0010
+assim -> 200 : 0011
+desenvolvimento -> 201 : 0100
+ti -> 201 : 0101
+melhor -> 201 : 0110
+dados -> 202 : 0111
+informações -> 202 : 1000
+novas -> 202 : 1001
+implantação -> 266 : 1010
+sistemas -> 134 : 10110
+problemas -> 134 : 10111
+segurança -> 268 : 1100
+envolvidos -> 135 : 11010
+necessidade -> 136 : 11011
+podemos -> 137 : 11100
+modo -> 138 : 11101
+hardware -> 199 : 11110
+impacto -> 200 : 11111
+==============POS=========================
+utilização -> 399 : 000
+tempo -> 200 : 0010
+assim -> 200 : 0011
+desenvolvimento -> 201 : 0100
+ti -> 201 : 0101
+melhor -> 201 : 0110
+dados -> 202 : 0111
+informações -> 202 : 1000
+novas -> 202 : 1001
+implantação -> 266 : 1010
+sistemas -> 134 : 10110
+problemas -> 134 : 10111
+segurança -> 268 : 1100
+envolvidos -> 135 : 11010
+necessidade -> 136 : 11011
+podemos -> 137 : 11100
+modo -> 138 : 11101
+hardware -> 199 : 11110
+impacto -> 200 : 11111
+===============PRE========================
+utilização -> 399 : 000
+tempo -> 200 : 0010
+assim -> 200 : 0011
+desenvolvimento -> 201 : 0100
+ti -> 201 : 0101
+melhor -> 201 : 0110
+dados -> 202 : 0111
+informações -> 202 : 1000
+novas -> 202 : 1001
+implantação -> 266 : 1010
+sistemas -> 134 : 10110
+problemas -> 134 : 10111
+segurança -> 268 : 1100
+envolvidos -> 135 : 11010
+necessidade -> 136 : 11011
+podemos -> 137 : 11100
+modo -> 138 : 11101
+hardware -> 199 : 11110
+impacto -> 200 : 11111
+=========================================
+====================================
+PALAVRA: mundo
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+entre񪔡 -> 1
+formas -> 134
+causa -> 134
+deve -> 135
+envolvidos -> 135
+necessidade -> 136
+sentido -> 136
+podemos -> 137
+modo -> 138
+hardware -> 199
+impacto -> 200
+assim -> 200
+desenvolvimento -> 201
+melhor -> 201
+novas -> 202
+dados -> 202
+informações -> 202
+implantação -> 266
+segurança -> 268
+utilização -> 399
+==============POS=========================
+envolvidos -> 135
+podemos -> 137
+sentido -> 136
+necessidade -> 136
+deve -> 135
+causa -> 134
+hardware -> 199
+informações -> 202
+dados -> 202
+novas -> 202
+melhor -> 201
+utilização -> 399
+segurança -> 268
+implantação -> 266
+desenvolvimento -> 201
+assim -> 200
+impacto -> 200
+modo -> 138
+formas -> 134
+entre񪔡 -> 1
+===============PRE========================
+entre񪔡 -> 1
+formas -> 134
+modo -> 138
+causa -> 134
+deve -> 135
+necessidade -> 136
+envolvidos -> 135
+sentido -> 136
+podemos -> 137
+impacto -> 200
+hardware -> 199
+assim -> 200
+desenvolvimento -> 201
+implantação -> 266
+melhor -> 201
+novas -> 202
+dados -> 202
+informações -> 202
+segurança -> 268
+utilização -> 399
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+entre񪔡 -> 1
+formas -> 134
+deve -> 135
+necessidade -> 136
+podemos -> 137
+modo -> 138
+hardware -> 199
+impacto -> 200
+desenvolvimento -> 201
+novas -> 202
+implantação -> 266
+segurança -> 268
+utilização -> 399
+==============POS=========================
+entre񪔡 -> 1
+deve -> 135
+podemos -> 137
+necessidade -> 136
+formas -> 134
+hardware -> 199
+desenvolvimento -> 201
+impacto -> 200
+implantação -> 266
+utilização -> 399
+segurança -> 268
+novas -> 202
+modo -> 138
+===============PRE========================
+modo -> 138
+formas -> 134
+entre񪔡 -> 1
+necessidade -> 136
+deve -> 135
+podemos -> 137
+novas -> 202
+impacto -> 200
+hardware -> 199
+desenvolvimento -> 201
+segurança -> 268
+implantação -> 266
+utilização -> 399
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+utilização -> 399 : 000
+hardware -> 199 : 0010
+assim -> 200 : 0011
+impacto -> 200 : 0100
+desenvolvimento -> 201 : 0101
+melhor -> 201 : 0110
+dados -> 202 : 0111
+informações -> 202 : 1000
+novas -> 202 : 1001
+implantação -> 266 : 1010
+segurança -> 268 : 1011
+formas -> 134 : 11000
+entre񪔡 -> 1 : 110010
+causa -> 134 : 110011
+envolvidos -> 135 : 11010
+deve -> 135 : 11011
+necessidade -> 136 : 11100
+sentido -> 136 : 11101
+podemos -> 137 : 11110
+modo -> 138 : 11111
+==============POS=========================
+utilização -> 399 : 000
+hardware -> 199 : 0010
+assim -> 200 : 0011
+impacto -> 200 : 0100
+desenvolvimento -> 201 : 0101
+melhor -> 201 : 0110
+dados -> 202 : 0111
+informações -> 202 : 1000
+novas -> 202 : 1001
+implantação -> 266 : 1010
+segurança -> 268 : 1011
+formas -> 134 : 11000
+entre񪔡 -> 1 : 110010
+causa -> 134 : 110011
+envolvidos -> 135 : 11010
+deve -> 135 : 11011
+necessidade -> 136 : 11100
+sentido -> 136 : 11101
+podemos -> 137 : 11110
+modo -> 138 : 11111
+===============PRE========================
+utilização -> 399 : 000
+hardware -> 199 : 0010
+assim -> 200 : 0011
+impacto -> 200 : 0100
+desenvolvimento -> 201 : 0101
+melhor -> 201 : 0110
+dados -> 202 : 0111
+informações -> 202 : 1000
+novas -> 202 : 1001
+implantação -> 266 : 1010
+segurança -> 268 : 1011
+formas -> 134 : 11000
+entre񪔡 -> 1 : 110010
+causa -> 134 : 110011
+envolvidos -> 135 : 11010
+deve -> 135 : 11011
+necessidade -> 136 : 11100
+sentido -> 136 : 11101
+podemos -> 137 : 11110
+modo -> 138 : 11111
+=========================================
+====================================
+PALAVRA: teoria
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+envolvidos -> 135
+necessidade -> 136
+pode -> 136
+sentido -> 136
+podemos -> 137
+modo -> 138
+aumento -> 200
+impacto -> 200
+assim -> 200
+tempo -> 200
+ti -> 201
+desenvolvimento -> 201
+melhor -> 201
+novas -> 202
+informações -> 202
+dados -> 202
+implantação -> 266
+segurança -> 268
+utilização -> 399
+==============POS=========================
+sentido -> 136
+modo -> 138
+podemos -> 137
+pode -> 136
+tempo -> 200
+assim -> 200
+melhor -> 201
+desenvolvimento -> 201
+ti -> 201
+implantação -> 266
+dados -> 202
+segurança -> 268
+informações -> 202
+novas -> 202
+impacto -> 200
+aumento -> 200
+necessidade -> 136
+envolvidos -> 135
+utilização -> 399
+===============PRE========================
+utilização -> 399
+envolvidos -> 135
+necessidade -> 136
+aumento -> 200
+pode -> 136
+podemos -> 137
+sentido -> 136
+modo -> 138
+impacto -> 200
+novas -> 202
+ti -> 201
+assim -> 200
+tempo -> 200
+desenvolvimento -> 201
+melhor -> 201
+informações -> 202
+segurança -> 268
+dados -> 202
+implantação -> 266
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+envolvidos -> 135
+necessidade -> 136
+podemos -> 137
+modo -> 138
+aumento -> 200
+ti -> 201
+novas -> 202
+implantação -> 266
+segurança -> 268
+utilização -> 399
+==============POS=========================
+envolvidos -> 135
+modo -> 138
+podemos -> 137
+necessidade -> 136
+ti -> 201
+implantação -> 266
+utilização -> 399
+segurança -> 268
+novas -> 202
+aumento -> 200
+===============PRE========================
+aumento -> 200
+necessidade -> 136
+envolvidos -> 135
+podemos -> 137
+modo -> 138
+novas -> 202
+ti -> 201
+segurança -> 268
+implantação -> 266
+utilização -> 399
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+impacto -> 200 : 0000
+tempo -> 200 : 0001
+aumento -> 200 : 0010
+assim -> 200 : 0011
+ti -> 201 : 0100
+desenvolvimento -> 201 : 0101
+melhor -> 201 : 0110
+informações -> 202 : 0111
+dados -> 202 : 1000
+novas -> 202 : 1001
+implantação -> 266 : 1010
+segurança -> 268 : 1011
+envolvidos -> 135 : 11000
+sentido -> 136 : 11001
+pode -> 136 : 11010
+necessidade -> 136 : 11011
+podemos -> 137 : 11100
+modo -> 138 : 11101
+utilização -> 399 : 1111
+==============POS=========================
+impacto -> 200 : 0000
+tempo -> 200 : 0001
+aumento -> 200 : 0010
+assim -> 200 : 0011
+ti -> 201 : 0100
+desenvolvimento -> 201 : 0101
+melhor -> 201 : 0110
+informações -> 202 : 0111
+dados -> 202 : 1000
+novas -> 202 : 1001
+implantação -> 266 : 1010
+segurança -> 268 : 1011
+envolvidos -> 135 : 11000
+sentido -> 136 : 11001
+pode -> 136 : 11010
+necessidade -> 136 : 11011
+podemos -> 137 : 11100
+modo -> 138 : 11101
+utilização -> 399 : 1111
+===============PRE========================
+impacto -> 200 : 0000
+tempo -> 200 : 0001
+aumento -> 200 : 0010
+assim -> 200 : 0011
+ti -> 201 : 0100
+desenvolvimento -> 201 : 0101
+melhor -> 201 : 0110
+informações -> 202 : 0111
+dados -> 202 : 1000
+novas -> 202 : 1001
+implantação -> 266 : 1010
+segurança -> 268 : 1011
+envolvidos -> 135 : 11000
+sentido -> 136 : 11001
+pode -> 136 : 11010
+necessidade -> 136 : 11011
+podemos -> 137 : 11100
+modo -> 138 : 11101
+utilização -> 399 : 1111
+=========================================
+====================================
+PALAVRA: hardware
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+entre񪔡 -> 1
+envolvidos -> 135
+deve -> 135
+pode -> 136
+sentido -> 136
+necessidade -> 136
+podemos -> 137
+modo -> 138
+impacto -> 200
+aumento -> 200
+assim -> 200
+desenvolvimento -> 201
+melhor -> 201
+ti -> 201
+novas -> 202
+informações -> 202
+dados -> 202
+implantação -> 266
+segurança -> 268
+utilização -> 399
+==============POS=========================
+podemos -> 137
+modo -> 138
+necessidade -> 136
+assim -> 200
+ti -> 201
+melhor -> 201
+desenvolvimento -> 201
+aumento -> 200
+dados -> 202
+informações -> 202
+utilização -> 399
+segurança -> 268
+implantação -> 266
+novas -> 202
+impacto -> 200
+sentido -> 136
+pode -> 136
+deve -> 135
+envolvidos -> 135
+entre񪔡 -> 1
+===============PRE========================
+entre񪔡 -> 1
+envolvidos -> 135
+deve -> 135
+pode -> 136
+sentido -> 136
+impacto -> 200
+necessidade -> 136
+modo -> 138
+podemos -> 137
+novas -> 202
+aumento -> 200
+desenvolvimento -> 201
+assim -> 200
+melhor -> 201
+ti -> 201
+implantação -> 266
+informações -> 202
+dados -> 202
+segurança -> 268
+utilização -> 399
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+entre񪔡 -> 1
+envolvidos -> 135
+pode -> 136
+podemos -> 137
+modo -> 138
+impacto -> 200
+desenvolvimento -> 201
+novas -> 202
+implantação -> 266
+segurança -> 268
+utilização -> 399
+==============POS=========================
+entre񪔡 -> 1
+pode -> 136
+modo -> 138
+podemos -> 137
+envolvidos -> 135
+desenvolvimento -> 201
+implantação -> 266
+utilização -> 399
+segurança -> 268
+novas -> 202
+impacto -> 200
+===============PRE========================
+impacto -> 200
+envolvidos -> 135
+entre񪔡 -> 1
+podemos -> 137
+pode -> 136
+modo -> 138
+novas -> 202
+desenvolvimento -> 201
+segurança -> 268
+implantação -> 266
+utilização -> 399
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+utilização -> 399 : 000
+assim -> 200 : 0010
+impacto -> 200 : 0011
+ti -> 201 : 0100
+desenvolvimento -> 201 : 0101
+melhor -> 201 : 0110
+informações -> 202 : 0111
+dados -> 202 : 1000
+novas -> 202 : 1001
+implantação -> 266 : 1010
+segurança -> 268 : 1011
+deve -> 135 : 11000
+entre񪔡 -> 1 : 110010
+envolvidos -> 135 : 110011
+pode -> 136 : 11010
+sentido -> 136 : 11011
+necessidade -> 136 : 11100
+podemos -> 137 : 11101
+modo -> 138 : 11110
+aumento -> 200 : 11111
+==============POS=========================
+utilização -> 399 : 000
+assim -> 200 : 0010
+impacto -> 200 : 0011
+ti -> 201 : 0100
+desenvolvimento -> 201 : 0101
+melhor -> 201 : 0110
+informações -> 202 : 0111
+dados -> 202 : 1000
+novas -> 202 : 1001
+implantação -> 266 : 1010
+segurança -> 268 : 1011
+deve -> 135 : 11000
+entre񪔡 -> 1 : 110010
+envolvidos -> 135 : 110011
+pode -> 136 : 11010
+sentido -> 136 : 11011
+necessidade -> 136 : 11100
+podemos -> 137 : 11101
+modo -> 138 : 11110
+aumento -> 200 : 11111
+===============PRE========================
+utilização -> 399 : 000
+assim -> 200 : 0010
+impacto -> 200 : 0011
+ti -> 201 : 0100
+desenvolvimento -> 201 : 0101
+melhor -> 201 : 0110
+informações -> 202 : 0111
+dados -> 202 : 1000
+novas -> 202 : 1001
+implantação -> 266 : 1010
+segurança -> 268 : 1011
+deve -> 135 : 11000
+entre񪔡 -> 1 : 110010
+envolvidos -> 135 : 110011
+pode -> 136 : 11010
+sentido -> 136 : 11011
+necessidade -> 136 : 11100
+podemos -> 137 : 11101
+modo -> 138 : 11110
+aumento -> 200 : 11111
+=========================================
+====================================
+PALAVRA: tempo
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+deve -> 135
+utilizados -> 135
+pode -> 136
+necessidade -> 136
+sentido -> 136
+É -> 137
+podemos -> 137
+modo -> 138
+impacto -> 200
+assim -> 200
+aumento -> 200
+melhor -> 201
+desenvolvimento -> 201
+ti -> 201
+informações -> 202
+dados -> 202
+implantação -> 266
+segurança -> 268
+utilização -> 399
+==============POS=========================
+utilizados -> 135
+podemos -> 137
+É -> 137
+sentido -> 136
+modo -> 138
+ti -> 201
+desenvolvimento -> 201
+melhor -> 201
+dados -> 202
+segurança -> 268
+implantação -> 266
+informações -> 202
+aumento -> 200
+assim -> 200
+impacto -> 200
+necessidade -> 136
+pode -> 136
+deve -> 135
+utilização -> 399
+===============PRE========================
+utilização -> 399
+deve -> 135
+pode -> 136
+utilizados -> 135
+necessidade -> 136
+impacto -> 200
+modo -> 138
+sentido -> 136
+É -> 137
+podemos -> 137
+assim -> 200
+aumento -> 200
+informações -> 202
+melhor -> 201
+desenvolvimento -> 201
+ti -> 201
+implantação -> 266
+dados -> 202
+segurança -> 268
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+deve -> 135
+pode -> 136
+É -> 137
+modo -> 138
+impacto -> 200
+melhor -> 201
+informações -> 202
+implantação -> 266
+segurança -> 268
+utilização -> 399
+==============POS=========================
+deve -> 135
+É -> 137
+pode -> 136
+melhor -> 201
+impacto -> 200
+implantação -> 266
+utilização -> 399
+segurança -> 268
+informações -> 202
+modo -> 138
+===============PRE========================
+modo -> 138
+pode -> 136
+deve -> 135
+É -> 137
+informações -> 202
+impacto -> 200
+melhor -> 201
+segurança -> 268
+implantação -> 266
+utilização -> 399
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+utilização -> 399 : 000
+assim -> 200 : 0010
+aumento -> 200 : 0011
+impacto -> 200 : 0100
+ti -> 201 : 0101
+melhor -> 201 : 0110
+desenvolvimento -> 201 : 0111
+dados -> 202 : 1000
+informações -> 202 : 1001
+implantação -> 266 : 1010
+segurança -> 268 : 1011
+utilizados -> 135 : 11000
+deve -> 135 : 11001
+sentido -> 136 : 11010
+necessidade -> 136 : 11011
+pode -> 136 : 11100
+podemos -> 137 : 11101
+É -> 137 : 11110
+modo -> 138 : 11111
+==============POS=========================
+utilização -> 399 : 000
+assim -> 200 : 0010
+aumento -> 200 : 0011
+impacto -> 200 : 0100
+ti -> 201 : 0101
+melhor -> 201 : 0110
+desenvolvimento -> 201 : 0111
+dados -> 202 : 1000
+informações -> 202 : 1001
+implantação -> 266 : 1010
+segurança -> 268 : 1011
+utilizados -> 135 : 11000
+deve -> 135 : 11001
+sentido -> 136 : 11010
+necessidade -> 136 : 11011
+pode -> 136 : 11100
+podemos -> 137 : 11101
+É -> 137 : 11110
+modo -> 138 : 11111
+===============PRE========================
+utilização -> 399 : 000
+assim -> 200 : 0010
+aumento -> 200 : 0011
+impacto -> 200 : 0100
+ti -> 201 : 0101
+melhor -> 201 : 0110
+desenvolvimento -> 201 : 0111
+dados -> 202 : 1000
+informações -> 202 : 1001
+implantação -> 266 : 1010
+segurança -> 268 : 1011
+utilizados -> 135 : 11000
+deve -> 135 : 11001
+sentido -> 136 : 11010
+necessidade -> 136 : 11011
+pode -> 136 : 11100
+podemos -> 137 : 11101
+É -> 137 : 11110
+modo -> 138 : 11111
+=========================================
+
+===================================
+
+TEXTO 6
+====================================
+PALAVRA: sistema
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+deve -> 135
+É -> 136
+podemos -> 136
+sentido -> 136
+modo -> 137
+pode -> 138
+impacto -> 199
+desenvolvimento -> 200
+tempo -> 200
+novas -> 200
+aumento -> 201
+hardware -> 201
+ti -> 201
+dados -> 202
+melhor -> 202
+assim -> 202
+implantação -> 267
+segurança -> 268
+utilização -> 400
+==============POS=========================
+modo -> 137
+sentido -> 136
+impacto -> 199
+pode -> 138
+podemos -> 136
+novas -> 200
+tempo -> 200
+ti -> 201
+assim -> 202
+melhor -> 202
+dados -> 202
+utilização -> 400
+segurança -> 268
+implantação -> 267
+hardware -> 201
+aumento -> 201
+desenvolvimento -> 200
+É -> 136
+deve -> 135
+===============PRE========================
+deve -> 135
+É -> 136
+desenvolvimento -> 200
+podemos -> 136
+pode -> 138
+sentido -> 136
+modo -> 137
+impacto -> 199
+aumento -> 201
+tempo -> 200
+novas -> 200
+hardware -> 201
+implantação -> 267
+dados -> 202
+ti -> 201
+melhor -> 202
+assim -> 202
+segurança -> 268
+utilização -> 400
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+deve -> 135
+É -> 136
+modo -> 137
+pode -> 138
+impacto -> 199
+desenvolvimento -> 200
+aumento -> 201
+dados -> 202
+implantação -> 267
+segurança -> 268
+utilização -> 400
+==============POS=========================
+deve -> 135
+modo -> 137
+impacto -> 199
+pode -> 138
+É -> 136
+aumento -> 201
+implantação -> 267
+utilização -> 400
+segurança -> 268
+dados -> 202
+desenvolvimento -> 200
+===============PRE========================
+desenvolvimento -> 200
+É -> 136
+deve -> 135
+pode -> 138
+modo -> 137
+impacto -> 199
+dados -> 202
+aumento -> 201
+segurança -> 268
+implantação -> 267
+utilização -> 400
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+utilização -> 400 : 000
+novas -> 200 : 0010
+desenvolvimento -> 200 : 0011
+ti -> 201 : 0100
+aumento -> 201 : 0101
+hardware -> 201 : 0110
+assim -> 202 : 0111
+melhor -> 202 : 1000
+dados -> 202 : 1001
+implantação -> 267 : 1010
+segurança -> 268 : 1011
+deve -> 135 : 11000
+sentido -> 136 : 11001
+podemos -> 136 : 11010
+É -> 136 : 11011
+modo -> 137 : 11100
+pode -> 138 : 11101
+impacto -> 199 : 11110
+tempo -> 200 : 11111
+==============POS=========================
+utilização -> 400 : 000
+novas -> 200 : 0010
+desenvolvimento -> 200 : 0011
+ti -> 201 : 0100
+aumento -> 201 : 0101
+hardware -> 201 : 0110
+assim -> 202 : 0111
+melhor -> 202 : 1000
+dados -> 202 : 1001
+implantação -> 267 : 1010
+segurança -> 268 : 1011
+deve -> 135 : 11000
+sentido -> 136 : 11001
+podemos -> 136 : 11010
+É -> 136 : 11011
+modo -> 137 : 11100
+pode -> 138 : 11101
+impacto -> 199 : 11110
+tempo -> 200 : 11111
+===============PRE========================
+utilização -> 400 : 000
+novas -> 200 : 0010
+desenvolvimento -> 200 : 0011
+ti -> 201 : 0100
+aumento -> 201 : 0101
+hardware -> 201 : 0110
+assim -> 202 : 0111
+melhor -> 202 : 1000
+dados -> 202 : 1001
+implantação -> 267 : 1010
+segurança -> 268 : 1011
+deve -> 135 : 11000
+sentido -> 136 : 11001
+podemos -> 136 : 11010
+É -> 136 : 11011
+modo -> 137 : 11100
+pode -> 138 : 11101
+impacto -> 199 : 11110
+tempo -> 200 : 11111
+=========================================
+====================================
+PALAVRA: sobre
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+entre񪔡enfatiza-se -> 1
+rede -> 134
+envolvidos -> 134
+utilizados -> 134
+deve -> 135
+necessidade -> 136
+sentido -> 136
+podemos -> 136
+modo -> 137
+pode -> 138
+impacto -> 199
+novas -> 200
+tempo -> 200
+hardware -> 201
+informações -> 201
+ti -> 201
+dados -> 202
+assim -> 202
+segurança -> 268
+utilização -> 400
+==============POS=========================
+deve -> 135
+utilizados -> 134
+envolvidos -> 134
+modo -> 137
+podemos -> 136
+impacto -> 199
+pode -> 138
+tempo -> 200
+ti -> 201
+utilização -> 400
+segurança -> 268
+assim -> 202
+dados -> 202
+informações -> 201
+hardware -> 201
+novas -> 200
+sentido -> 136
+necessidade -> 136
+rede -> 134
+entre񪔡enfatiza-se -> 1
+===============PRE========================
+entre񪔡enfatiza-se -> 1
+rede -> 134
+necessidade -> 136
+envolvidos -> 134
+utilizados -> 134
+deve -> 135
+sentido -> 136
+novas -> 200
+pode -> 138
+podemos -> 136
+modo -> 137
+impacto -> 199
+hardware -> 201
+tempo -> 200
+informações -> 201
+dados -> 202
+ti -> 201
+assim -> 202
+segurança -> 268
+utilização -> 400
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+entre񪔡enfatiza-se -> 1
+rede -> 134
+deve -> 135
+necessidade -> 136
+modo -> 137
+pode -> 138
+impacto -> 199
+novas -> 200
+hardware -> 201
+dados -> 202
+segurança -> 268
+utilização -> 400
+==============POS=========================
+entre񪔡enfatiza-se -> 1
+deve -> 135
+rede -> 134
+modo -> 137
+impacto -> 199
+pode -> 138
+necessidade -> 136
+hardware -> 201
+utilização -> 400
+segurança -> 268
+dados -> 202
+novas -> 200
+===============PRE========================
+novas -> 200
+necessidade -> 136
+rede -> 134
+entre񪔡enfatiza-se -> 1
+deve -> 135
+pode -> 138
+modo -> 137
+impacto -> 199
+dados -> 202
+hardware -> 201
+segurança -> 268
+utilização -> 400
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+pode -> 138 : 0000
+impacto -> 199 : 0001
+tempo -> 200 : 0010
+novas -> 200 : 0011
+utilização -> 400 : 010
+ti -> 201 : 0110
+informações -> 201 : 0111
+hardware -> 201 : 1000
+dados -> 202 : 1001
+assim -> 202 : 1010
+segurança -> 268 : 1011
+envolvidos -> 134 : 11000
+rede -> 134 : 11001
+entre񪔡enfatiza-se -> 1 : 110100
+utilizados -> 134 : 110101
+deve -> 135 : 11011
+podemos -> 136 : 11100
+sentido -> 136 : 11101
+necessidade -> 136 : 11110
+modo -> 137 : 11111
+==============POS=========================
+pode -> 138 : 0000
+impacto -> 199 : 0001
+tempo -> 200 : 0010
+novas -> 200 : 0011
+utilização -> 400 : 010
+ti -> 201 : 0110
+informações -> 201 : 0111
+hardware -> 201 : 1000
+dados -> 202 : 1001
+assim -> 202 : 1010
+segurança -> 268 : 1011
+envolvidos -> 134 : 11000
+rede -> 134 : 11001
+entre񪔡enfatiza-se -> 1 : 110100
+utilizados -> 134 : 110101
+deve -> 135 : 11011
+podemos -> 136 : 11100
+sentido -> 136 : 11101
+necessidade -> 136 : 11110
+modo -> 137 : 11111
+===============PRE========================
+pode -> 138 : 0000
+impacto -> 199 : 0001
+tempo -> 200 : 0010
+novas -> 200 : 0011
+utilização -> 400 : 010
+ti -> 201 : 0110
+informações -> 201 : 0111
+hardware -> 201 : 1000
+dados -> 202 : 1001
+assim -> 202 : 1010
+segurança -> 268 : 1011
+envolvidos -> 134 : 11000
+rede -> 134 : 11001
+entre񪔡enfatiza-se -> 1 : 110100
+utilizados -> 134 : 110101
+deve -> 135 : 11011
+podemos -> 136 : 11100
+sentido -> 136 : 11101
+necessidade -> 136 : 11110
+modo -> 137 : 11111
+=========================================
+====================================
+PALAVRA: mundo
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+problemas -> 134
+deve -> 135
+necessidade -> 136
+É -> 136
+sentido -> 136
+modo -> 137
+pode -> 138
+impacto -> 199
+desenvolvimento -> 200
+tempo -> 200
+hardware -> 201
+aumento -> 201
+ti -> 201
+dados -> 202
+assim -> 202
+melhor -> 202
+implantação -> 267
+segurança -> 268
+utilização -> 400
+==============POS=========================
+deve -> 135
+sentido -> 136
+É -> 136
+impacto -> 199
+tempo -> 200
+desenvolvimento -> 200
+ti -> 201
+aumento -> 201
+melhor -> 202
+assim -> 202
+implantação -> 267
+utilização -> 400
+segurança -> 268
+dados -> 202
+hardware -> 201
+pode -> 138
+modo -> 137
+necessidade -> 136
+problemas -> 134
+===============PRE========================
+problemas -> 134
+necessidade -> 136
+deve -> 135
+modo -> 137
+É -> 136
+sentido -> 136
+pode -> 138
+hardware -> 201
+desenvolvimento -> 200
+impacto -> 199
+tempo -> 200
+dados -> 202
+aumento -> 201
+ti -> 201
+segurança -> 268
+implantação -> 267
+assim -> 202
+melhor -> 202
+utilização -> 400
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+problemas -> 134
+deve -> 135
+necessidade -> 136
+modo -> 137
+pode -> 138
+impacto -> 199
+desenvolvimento -> 200
+hardware -> 201
+dados -> 202
+implantação -> 267
+segurança -> 268
+utilização -> 400
+==============POS=========================
+problemas -> 134
+necessidade -> 136
+deve -> 135
+pode -> 138
+desenvolvimento -> 200
+impacto -> 199
+modo -> 137
+dados -> 202
+utilização -> 400
+segurança -> 268
+implantação -> 267
+hardware -> 201
+===============PRE========================
+hardware -> 201
+modo -> 137
+deve -> 135
+problemas -> 134
+necessidade -> 136
+impacto -> 199
+pode -> 138
+desenvolvimento -> 200
+implantação -> 267
+dados -> 202
+segurança -> 268
+utilização -> 400
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+desenvolvimento -> 200 : 0000
+tempo -> 200 : 0001
+utilização -> 400 : 001
+hardware -> 201 : 0100
+aumento -> 201 : 0101
+ti -> 201 : 0110
+melhor -> 202 : 0111
+dados -> 202 : 1000
+assim -> 202 : 1001
+implantação -> 267 : 1010
+segurança -> 268 : 1011
+problemas -> 134 : 11000
+deve -> 135 : 11001
+É -> 136 : 11010
+necessidade -> 136 : 11011
+sentido -> 136 : 11100
+modo -> 137 : 11101
+pode -> 138 : 11110
+impacto -> 199 : 11111
+==============POS=========================
+desenvolvimento -> 200 : 0000
+tempo -> 200 : 0001
+utilização -> 400 : 001
+hardware -> 201 : 0100
+aumento -> 201 : 0101
+ti -> 201 : 0110
+melhor -> 202 : 0111
+dados -> 202 : 1000
+assim -> 202 : 1001
+implantação -> 267 : 1010
+segurança -> 268 : 1011
+problemas -> 134 : 11000
+deve -> 135 : 11001
+É -> 136 : 11010
+necessidade -> 136 : 11011
+sentido -> 136 : 11100
+modo -> 137 : 11101
+pode -> 138 : 11110
+impacto -> 199 : 11111
+===============PRE========================
+desenvolvimento -> 200 : 0000
+tempo -> 200 : 0001
+utilização -> 400 : 001
+hardware -> 201 : 0100
+aumento -> 201 : 0101
+ti -> 201 : 0110
+melhor -> 202 : 0111
+dados -> 202 : 1000
+assim -> 202 : 1001
+implantação -> 267 : 1010
+segurança -> 268 : 1011
+problemas -> 134 : 11000
+deve -> 135 : 11001
+É -> 136 : 11010
+necessidade -> 136 : 11011
+sentido -> 136 : 11100
+modo -> 137 : 11101
+pode -> 138 : 11110
+impacto -> 199 : 11111
+=========================================
+====================================
+PALAVRA: teoria
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+entre񪔡enfatiza-se -> 1
+utilizados -> 134
+redes -> 134
+integridade -> 134
+deve -> 135
+podemos -> 136
+necessidade -> 136
+sentido -> 136
+modo -> 137
+pode -> 138
+impacto -> 199
+novas -> 200
+tempo -> 200
+hardware -> 201
+ti -> 201
+informações -> 201
+dados -> 202
+assim -> 202
+segurança -> 268
+utilização -> 400
+==============POS=========================
+integridade -> 134
+redes -> 134
+impacto -> 199
+pode -> 138
+modo -> 137
+sentido -> 136
+tempo -> 200
+novas -> 200
+necessidade -> 136
+podemos -> 136
+assim -> 202
+utilização -> 400
+segurança -> 268
+dados -> 202
+informações -> 201
+ti -> 201
+hardware -> 201
+deve -> 135
+utilizados -> 134
+entre񪔡enfatiza-se -> 1
+===============PRE========================
+entre񪔡enfatiza-se -> 1
+utilizados -> 134
+deve -> 135
+redes -> 134
+integridade -> 134
+hardware -> 201
+podemos -> 136
+necessidade -> 136
+novas -> 200
+sentido -> 136
+modo -> 137
+pode -> 138
+impacto -> 199
+tempo -> 200
+ti -> 201
+informações -> 201
+dados -> 202
+segurança -> 268
+assim -> 202
+utilização -> 400
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+entre񪔡enfatiza-se -> 1
+utilizados -> 134
+deve -> 135
+podemos -> 136
+modo -> 137
+pode -> 138
+impacto -> 199
+novas -> 200
+hardware -> 201
+dados -> 202
+segurança -> 268
+utilização -> 400
+==============POS=========================
+entre񪔡enfatiza-se -> 1
+deve -> 135
+utilizados -> 134
+modo -> 137
+podemos -> 136
+impacto -> 199
+novas -> 200
+dados -> 202
+utilização -> 400
+segurança -> 268
+hardware -> 201
+pode -> 138
+===============PRE========================
+pode -> 138
+podemos -> 136
+utilizados -> 134
+entre񪔡enfatiza-se -> 1
+deve -> 135
+modo -> 137
+hardware -> 201
+novas -> 200
+impacto -> 199
+segurança -> 268
+dados -> 202
+utilização -> 400
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+pode -> 138 : 0000
+impacto -> 199 : 0001
+utilização -> 400 : 001
+novas -> 200 : 0100
+tempo -> 200 : 0101
+informações -> 201 : 0110
+hardware -> 201 : 0111
+ti -> 201 : 1000
+assim -> 202 : 1001
+dados -> 202 : 1010
+redes -> 134 : 10110
+utilizados -> 134 : 10111
+segurança -> 268 : 1100
+entre񪔡enfatiza-se -> 1 : 110100
+integridade -> 134 : 110101
+deve -> 135 : 11011
+necessidade -> 136 : 11100
+sentido -> 136 : 11101
+podemos -> 136 : 11110
+modo -> 137 : 11111
+==============POS=========================
+pode -> 138 : 0000
+impacto -> 199 : 0001
+utilização -> 400 : 001
+novas -> 200 : 0100
+tempo -> 200 : 0101
+informações -> 201 : 0110
+hardware -> 201 : 0111
+ti -> 201 : 1000
+assim -> 202 : 1001
+dados -> 202 : 1010
+redes -> 134 : 10110
+utilizados -> 134 : 10111
+segurança -> 268 : 1100
+entre񪔡enfatiza-se -> 1 : 110100
+integridade -> 134 : 110101
+deve -> 135 : 11011
+necessidade -> 136 : 11100
+sentido -> 136 : 11101
+podemos -> 136 : 11110
+modo -> 137 : 11111
+===============PRE========================
+pode -> 138 : 0000
+impacto -> 199 : 0001
+utilização -> 400 : 001
+novas -> 200 : 0100
+tempo -> 200 : 0101
+informações -> 201 : 0110
+hardware -> 201 : 0111
+ti -> 201 : 1000
+assim -> 202 : 1001
+dados -> 202 : 1010
+redes -> 134 : 10110
+utilizados -> 134 : 10111
+segurança -> 268 : 1100
+entre񪔡enfatiza-se -> 1 : 110100
+integridade -> 134 : 110101
+deve -> 135 : 11011
+necessidade -> 136 : 11100
+sentido -> 136 : 11101
+podemos -> 136 : 11110
+modo -> 137 : 11111
+=========================================
+====================================
+PALAVRA: hardware
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+deve -> 135
+É -> 136
+sentido -> 136
+podemos -> 136
+necessidade -> 136
+modo -> 137
+pode -> 138
+impacto -> 199
+desenvolvimento -> 200
+tempo -> 200
+novas -> 200
+ti -> 201
+aumento -> 201
+assim -> 202
+dados -> 202
+melhor -> 202
+implantação -> 267
+segurança -> 268
+utilização -> 400
+==============POS=========================
+deve -> 135
+necessidade -> 136
+podemos -> 136
+novas -> 200
+aumento -> 201
+ti -> 201
+tempo -> 200
+melhor -> 202
+dados -> 202
+utilização -> 400
+segurança -> 268
+implantação -> 267
+assim -> 202
+desenvolvimento -> 200
+impacto -> 199
+pode -> 138
+modo -> 137
+sentido -> 136
+É -> 136
+===============PRE========================
+É -> 136
+deve -> 135
+sentido -> 136
+modo -> 137
+podemos -> 136
+necessidade -> 136
+pode -> 138
+impacto -> 199
+desenvolvimento -> 200
+assim -> 202
+tempo -> 200
+ti -> 201
+novas -> 200
+aumento -> 201
+implantação -> 267
+dados -> 202
+melhor -> 202
+segurança -> 268
+utilização -> 400
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+deve -> 135
+É -> 136
+modo -> 137
+pode -> 138
+impacto -> 199
+desenvolvimento -> 200
+ti -> 201
+assim -> 202
+implantação -> 267
+segurança -> 268
+utilização -> 400
+==============POS=========================
+deve -> 135
+modo -> 137
+É -> 136
+impacto -> 199
+ti -> 201
+desenvolvimento -> 200
+implantação -> 267
+utilização -> 400
+segurança -> 268
+assim -> 202
+pode -> 138
+===============PRE========================
+pode -> 138
+É -> 136
+deve -> 135
+modo -> 137
+assim -> 202
+desenvolvimento -> 200
+impacto -> 199
+ti -> 201
+segurança -> 268
+implantação -> 267
+utilização -> 400
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+utilização -> 400 : 000
+novas -> 200 : 0010
+desenvolvimento -> 200 : 0011
+tempo -> 200 : 0100
+aumento -> 201 : 0101
+ti -> 201 : 0110
+melhor -> 202 : 0111
+dados -> 202 : 1000
+assim -> 202 : 1001
+implantação -> 267 : 1010
+segurança -> 268 : 1011
+deve -> 135 : 11000
+É -> 136 : 11001
+necessidade -> 136 : 11010
+podemos -> 136 : 11011
+sentido -> 136 : 11100
+modo -> 137 : 11101
+pode -> 138 : 11110
+impacto -> 199 : 11111
+==============POS=========================
+utilização -> 400 : 000
+novas -> 200 : 0010
+desenvolvimento -> 200 : 0011
+tempo -> 200 : 0100
+aumento -> 201 : 0101
+ti -> 201 : 0110
+melhor -> 202 : 0111
+dados -> 202 : 1000
+assim -> 202 : 1001
+implantação -> 267 : 1010
+segurança -> 268 : 1011
+deve -> 135 : 11000
+É -> 136 : 11001
+necessidade -> 136 : 11010
+podemos -> 136 : 11011
+sentido -> 136 : 11100
+modo -> 137 : 11101
+pode -> 138 : 11110
+impacto -> 199 : 11111
+===============PRE========================
+utilização -> 400 : 000
+novas -> 200 : 0010
+desenvolvimento -> 200 : 0011
+tempo -> 200 : 0100
+aumento -> 201 : 0101
+ti -> 201 : 0110
+melhor -> 202 : 0111
+dados -> 202 : 1000
+assim -> 202 : 1001
+implantação -> 267 : 1010
+segurança -> 268 : 1011
+deve -> 135 : 11000
+É -> 136 : 11001
+necessidade -> 136 : 11010
+podemos -> 136 : 11011
+sentido -> 136 : 11100
+modo -> 137 : 11101
+pode -> 138 : 11110
+impacto -> 199 : 11111
+=========================================
+====================================
+PALAVRA: tempo
+-----------ÁRVORE BINÁRIA-----------
+=============IN=======================
+entre񪔡enfatiza-se -> 1
+links -> 134
+rede -> 134
+envolvidos -> 134
+redes -> 134
+existem -> 134
+deve -> 135
+sentido -> 136
+necessidade -> 136
+modo -> 137
+pode -> 138
+impacto -> 199
+desenvolvimento -> 200
+ti -> 201
+informações -> 201
+assim -> 202
+dados -> 202
+implantação -> 267
+segurança -> 268
+utilização -> 400
+==============POS=========================
+existem -> 134
+redes -> 134
+envolvidos -> 134
+rede -> 134
+necessidade -> 136
+modo -> 137
+impacto -> 199
+desenvolvimento -> 200
+informações -> 201
+ti -> 201
+segurança -> 268
+implantação -> 267
+dados -> 202
+utilização -> 400
+assim -> 202
+pode -> 138
+sentido -> 136
+deve -> 135
+links -> 134
+entre񪔡enfatiza-se -> 1
+===============PRE========================
+entre񪔡enfatiza-se -> 1
+links -> 134
+deve -> 135
+rede -> 134
+envolvidos -> 134
+redes -> 134
+existem -> 134
+sentido -> 136
+pode -> 138
+modo -> 137
+necessidade -> 136
+assim -> 202
+ti -> 201
+desenvolvimento -> 200
+impacto -> 199
+informações -> 201
+utilização -> 400
+dados -> 202
+implantação -> 267
+segurança -> 268
+=========================================
+-----------ÁRVORE AVL-----------
+=============IN=======================
+entre񪔡enfatiza-se -> 1
+links -> 134
+deve -> 135
+sentido -> 136
+modo -> 137
+pode -> 138
+impacto -> 199
+desenvolvimento -> 200
+ti -> 201
+assim -> 202
+implantação -> 267
+segurança -> 268
+utilização -> 400
+==============POS=========================
+entre񪔡enfatiza-se -> 1
+deve -> 135
+links -> 134
+modo -> 137
+sentido -> 136
+impacto -> 199
+desenvolvimento -> 200
+assim -> 202
+segurança -> 268
+utilização -> 400
+implantação -> 267
+ti -> 201
+pode -> 138
+===============PRE========================
+pode -> 138
+sentido -> 136
+links -> 134
+entre񪔡enfatiza-se -> 1
+deve -> 135
+modo -> 137
+ti -> 201
+desenvolvimento -> 200
+impacto -> 199
+implantação -> 267
+assim -> 202
+utilização -> 400
+segurança -> 268
+=========================================
+-----------CODIFICAÇÃO HUFFMAN-----------
+=============IN=======================
+modo -> 137 : 0000
+pode -> 138 : 0001
+impacto -> 199 : 0010
+desenvolvimento -> 200 : 0011
+utilização -> 400 : 010
+informações -> 201 : 0110
+ti -> 201 : 0111
+assim -> 202 : 1000
+dados -> 202 : 1001
+implantação -> 267 : 1010
+envolvidos -> 134 : 10110
+links -> 134 : 10111
+redes -> 134 : 11000
+rede -> 134 : 11001
+segurança -> 268 : 1101
+entre񪔡enfatiza-se -> 1 : 111000
+existem -> 134 : 111001
+deve -> 135 : 11101
+necessidade -> 136 : 11110
+sentido -> 136 : 11111
+==============POS=========================
+modo -> 137 : 0000
+pode -> 138 : 0001
+impacto -> 199 : 0010
+desenvolvimento -> 200 : 0011
+utilização -> 400 : 010
+informações -> 201 : 0110
+ti -> 201 : 0111
+assim -> 202 : 1000
+dados -> 202 : 1001
+implantação -> 267 : 1010
+envolvidos -> 134 : 10110
+links -> 134 : 10111
+redes -> 134 : 11000
+rede -> 134 : 11001
+segurança -> 268 : 1101
+entre񪔡enfatiza-se -> 1 : 111000
+existem -> 134 : 111001
+deve -> 135 : 11101
+necessidade -> 136 : 11110
+sentido -> 136 : 11111
+===============PRE========================
+modo -> 137 : 0000
+pode -> 138 : 0001
+impacto -> 199 : 0010
+desenvolvimento -> 200 : 0011
+utilização -> 400 : 010
+informações -> 201 : 0110
+ti -> 201 : 0111
+assim -> 202 : 1000
+dados -> 202 : 1001
+implantação -> 267 : 1010
+envolvidos -> 134 : 10110
+links -> 134 : 10111
+redes -> 134 : 11000
+rede -> 134 : 11001
+segurança -> 268 : 1101
+entre񪔡enfatiza-se -> 1 : 111000
+existem -> 134 : 111001
+deve -> 135 : 11101
+necessidade -> 136 : 11110
+sentido -> 136 : 11111
+=========================================
